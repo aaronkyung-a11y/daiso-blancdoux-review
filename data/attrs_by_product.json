@@ -1,0 +1,1370 @@
+{
+  "1060644": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 부스터 앰플 30 ml",
+    "avgRating": "4.8",
+    "revwCnt": "2654",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 20,
+            "count": 336
+          },
+          {
+            "label": "건성",
+            "percent": 43,
+            "count": 700
+          },
+          {
+            "label": "중성",
+            "percent": 23,
+            "count": 388
+          },
+          {
+            "label": "민감성",
+            "percent": 12,
+            "count": 196
+          }
+        ],
+        "total_responses": 1620
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 76,
+            "count": 5439
+          },
+          {
+            "label": "보통이에요",
+            "percent": 22,
+            "count": 1636
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 57
+          }
+        ],
+        "total_responses": 7132
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 76,
+            "count": 5440
+          },
+          {
+            "label": "보통이에요",
+            "percent": 22,
+            "count": 1632
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 60
+          }
+        ],
+        "total_responses": 7132
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 43,
+            "count": 708
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 55,
+            "count": 892
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 1,
+            "count": 20
+          }
+        ],
+        "total_responses": 1620
+      }
+    ]
+  },
+  "1073406": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 스킨핏프렙 40 ml",
+    "avgRating": "4.8",
+    "revwCnt": "904",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 21,
+            "count": 138
+          },
+          {
+            "label": "건성",
+            "percent": 41,
+            "count": 267
+          },
+          {
+            "label": "중성",
+            "percent": 29,
+            "count": 192
+          },
+          {
+            "label": "민감성",
+            "percent": 8,
+            "count": 54
+          }
+        ],
+        "total_responses": 651
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 68,
+            "count": 1434
+          },
+          {
+            "label": "보통이에요",
+            "percent": 30,
+            "count": 636
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 12
+          }
+        ],
+        "total_responses": 2082
+      },
+      {
+        "item": "촉촉함",
+        "question": "사용 후에도 촉촉한가요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 60,
+            "count": 396
+          },
+          {
+            "label": "보통이에요",
+            "percent": 35,
+            "count": 231
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 3,
+            "count": 24
+          }
+        ],
+        "total_responses": 651
+      }
+    ]
+  },
+  "1060645": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 크림 50 ml",
+    "avgRating": "4.8",
+    "revwCnt": "3334",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 22,
+            "count": 264
+          },
+          {
+            "label": "건성",
+            "percent": 36,
+            "count": 432
+          },
+          {
+            "label": "중성",
+            "percent": 33,
+            "count": 400
+          },
+          {
+            "label": "민감성",
+            "percent": 7,
+            "count": 88
+          }
+        ],
+        "total_responses": 1184
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 73,
+            "count": 6707
+          },
+          {
+            "label": "보통이에요",
+            "percent": 24,
+            "count": 2246
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 1,
+            "count": 132
+          }
+        ],
+        "total_responses": 9085
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 75,
+            "count": 6819
+          },
+          {
+            "label": "보통이에요",
+            "percent": 24,
+            "count": 2209
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 57
+          }
+        ],
+        "total_responses": 9085
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 38,
+            "count": 456
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 60,
+            "count": 712
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 1,
+            "count": 16
+          }
+        ],
+        "total_responses": 1184
+      }
+    ]
+  },
+  "1073408": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 선에센스 40 ml",
+    "avgRating": "4.7",
+    "revwCnt": "168",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 19,
+            "count": 108
+          },
+          {
+            "label": "건성",
+            "percent": 43,
+            "count": 236
+          },
+          {
+            "label": "중성",
+            "percent": 28,
+            "count": 156
+          },
+          {
+            "label": "민감성",
+            "percent": 8,
+            "count": 48
+          }
+        ],
+        "total_responses": 548
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 78,
+            "count": 428
+          },
+          {
+            "label": "보통이에요",
+            "percent": 21,
+            "count": 120
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 548
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 72,
+            "count": 400
+          },
+          {
+            "label": "보통이에요",
+            "percent": 22,
+            "count": 124
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 4,
+            "count": 24
+          }
+        ],
+        "total_responses": 548
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 51,
+            "count": 280
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 46,
+            "count": 256
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 2,
+            "count": 12
+          }
+        ],
+        "total_responses": 548
+      }
+    ]
+  },
+  "1073405": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 세럼미스트 150 ml",
+    "avgRating": "4.7",
+    "revwCnt": "427",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 22,
+            "count": 80
+          },
+          {
+            "label": "건성",
+            "percent": 31,
+            "count": 112
+          },
+          {
+            "label": "중성",
+            "percent": 31,
+            "count": 112
+          },
+          {
+            "label": "민감성",
+            "percent": 14,
+            "count": 52
+          }
+        ],
+        "total_responses": 356
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 64,
+            "count": 742
+          },
+          {
+            "label": "보통이에요",
+            "percent": 29,
+            "count": 339
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 5,
+            "count": 61
+          }
+        ],
+        "total_responses": 1142
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 73,
+            "count": 835
+          },
+          {
+            "label": "보통이에요",
+            "percent": 26,
+            "count": 300
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 7
+          }
+        ],
+        "total_responses": 1142
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 48,
+            "count": 172
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 47,
+            "count": 168
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 4,
+            "count": 16
+          }
+        ],
+        "total_responses": 356
+      }
+    ]
+  },
+  "1068781": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 선크림 35 ml",
+    "avgRating": "4.9",
+    "revwCnt": "153",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 22,
+            "count": 120
+          },
+          {
+            "label": "건성",
+            "percent": 28,
+            "count": 156
+          },
+          {
+            "label": "중성",
+            "percent": 37,
+            "count": 204
+          },
+          {
+            "label": "민감성",
+            "percent": 11,
+            "count": 60
+          }
+        ],
+        "total_responses": 540
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 74,
+            "count": 404
+          },
+          {
+            "label": "보통이에요",
+            "percent": 24,
+            "count": 132
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 4
+          }
+        ],
+        "total_responses": 540
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 78,
+            "count": 424
+          },
+          {
+            "label": "보통이에요",
+            "percent": 20,
+            "count": 108
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 1,
+            "count": 8
+          }
+        ],
+        "total_responses": 540
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 59,
+            "count": 320
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 39,
+            "count": 212
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 1,
+            "count": 8
+          }
+        ],
+        "total_responses": 540
+      }
+    ]
+  },
+  "1060643": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 토너 150 ml",
+    "avgRating": "4.7",
+    "revwCnt": "625",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 30,
+            "count": 72
+          },
+          {
+            "label": "건성",
+            "percent": 44,
+            "count": 104
+          },
+          {
+            "label": "중성",
+            "percent": 20,
+            "count": 48
+          },
+          {
+            "label": "민감성",
+            "percent": 5,
+            "count": 12
+          }
+        ],
+        "total_responses": 236
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 67,
+            "count": 1162
+          },
+          {
+            "label": "보통이에요",
+            "percent": 29,
+            "count": 505
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 3,
+            "count": 52
+          }
+        ],
+        "total_responses": 1719
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 77,
+            "count": 1334
+          },
+          {
+            "label": "보통이에요",
+            "percent": 20,
+            "count": 357
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 1,
+            "count": 28
+          }
+        ],
+        "total_responses": 1719
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 45,
+            "count": 108
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 54,
+            "count": 128
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 236
+      }
+    ]
+  },
+  "1060646": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 틴티드 커버 크림 40 ml",
+    "avgRating": "4.6",
+    "revwCnt": "847",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 18,
+            "count": 453
+          },
+          {
+            "label": "건성",
+            "percent": 36,
+            "count": 882
+          },
+          {
+            "label": "중성",
+            "percent": 33,
+            "count": 804
+          },
+          {
+            "label": "민감성",
+            "percent": 11,
+            "count": 273
+          }
+        ],
+        "total_responses": 2412
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 62,
+            "count": 1509
+          },
+          {
+            "label": "보통이에요",
+            "percent": 35,
+            "count": 867
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 1,
+            "count": 36
+          }
+        ],
+        "total_responses": 2412
+      },
+      {
+        "item": "촉촉함",
+        "question": "사용 후에도 촉촉한가요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 57,
+            "count": 1389
+          },
+          {
+            "label": "보통이에요",
+            "percent": 37,
+            "count": 897
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 5,
+            "count": 126
+          }
+        ],
+        "total_responses": 2412
+      }
+    ]
+  },
+  "1073409": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 겔마스크 1매 25 g",
+    "avgRating": "4.9",
+    "revwCnt": "419",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 19,
+            "count": 268
+          },
+          {
+            "label": "건성",
+            "percent": 42,
+            "count": 588
+          },
+          {
+            "label": "중성",
+            "percent": 24,
+            "count": 332
+          },
+          {
+            "label": "민감성",
+            "percent": 13,
+            "count": 180
+          }
+        ],
+        "total_responses": 1368
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 75,
+            "count": 1036
+          },
+          {
+            "label": "보통이에요",
+            "percent": 23,
+            "count": 324
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 8
+          }
+        ],
+        "total_responses": 1368
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 45,
+            "count": 616
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 53,
+            "count": 736
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 1,
+            "count": 16
+          }
+        ],
+        "total_responses": 1368
+      },
+      {
+        "item": "편리함",
+        "question": "사용에 어려움은 없나요?",
+        "options": [
+          {
+            "label": "사용하기 편리해요",
+            "percent": 66,
+            "count": 904
+          },
+          {
+            "label": "보통이에요",
+            "percent": 32,
+            "count": 444
+          },
+          {
+            "label": "사용하기 불편해요",
+            "percent": 1,
+            "count": 20
+          }
+        ],
+        "total_responses": 1368
+      }
+    ]
+  },
+  "1068780": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 올인원에멀전 120 ml",
+    "avgRating": "4.8",
+    "revwCnt": "182",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 20,
+            "count": 18
+          },
+          {
+            "label": "건성",
+            "percent": 31,
+            "count": 27
+          },
+          {
+            "label": "중성",
+            "percent": 44,
+            "count": 39
+          },
+          {
+            "label": "민감성",
+            "percent": 3,
+            "count": 3
+          }
+        ],
+        "total_responses": 87
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 77,
+            "count": 375
+          },
+          {
+            "label": "보통이에요",
+            "percent": 21,
+            "count": 105
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 1,
+            "count": 6
+          }
+        ],
+        "total_responses": 486
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 77,
+            "count": 378
+          },
+          {
+            "label": "보통이에요",
+            "percent": 22,
+            "count": 108
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 486
+      }
+    ]
+  },
+  "1073407": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 젤클렌저 100 g",
+    "avgRating": "4.8",
+    "revwCnt": "93",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 18,
+            "count": 49
+          },
+          {
+            "label": "건성",
+            "percent": 30,
+            "count": 81
+          },
+          {
+            "label": "중성",
+            "percent": 32,
+            "count": 87
+          },
+          {
+            "label": "민감성",
+            "percent": 18,
+            "count": 48
+          }
+        ],
+        "total_responses": 265
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 64,
+            "count": 170
+          },
+          {
+            "label": "보통이에요",
+            "percent": 34,
+            "count": 92
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 1,
+            "count": 3
+          }
+        ],
+        "total_responses": 265
+      },
+      {
+        "item": "촉촉함",
+        "question": "사용 후에도 촉촉한가요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 60,
+            "count": 159
+          },
+          {
+            "label": "보통이에요",
+            "percent": 40,
+            "count": 106
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 265
+      },
+      {
+        "item": "세정력",
+        "question": "세정력은 어느정도인가요?",
+        "options": [
+          {
+            "label": "좋아요",
+            "percent": 40,
+            "count": 24
+          },
+          {
+            "label": "보통이에요",
+            "percent": 53,
+            "count": 32
+          },
+          {
+            "label": "아쉬워요",
+            "percent": 6,
+            "count": 4
+          }
+        ],
+        "total_responses": 60
+      }
+    ]
+  },
+  "1060642": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 토너 패드 4매입",
+    "avgRating": "4.8",
+    "revwCnt": "329",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 27,
+            "count": 328
+          },
+          {
+            "label": "건성",
+            "percent": 31,
+            "count": 372
+          },
+          {
+            "label": "중성",
+            "percent": 27,
+            "count": 328
+          },
+          {
+            "label": "민감성",
+            "percent": 14,
+            "count": 168
+          }
+        ],
+        "total_responses": 1196
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 73,
+            "count": 880
+          },
+          {
+            "label": "보통이에요",
+            "percent": 25,
+            "count": 308
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 8
+          }
+        ],
+        "total_responses": 1196
+      },
+      {
+        "item": "향",
+        "question": "향은 마음에 드나요?",
+        "options": [
+          {
+            "label": "아주 마음에 들어요",
+            "percent": 45,
+            "count": 548
+          },
+          {
+            "label": "마음에 들어요",
+            "percent": 53,
+            "count": 640
+          },
+          {
+            "label": "마음에 들지 않아요",
+            "percent": 0,
+            "count": 8
+          }
+        ],
+        "total_responses": 1196
+      },
+      {
+        "item": "편리함",
+        "question": "사용에 어려움은 없나요?",
+        "options": [
+          {
+            "label": "사용하기 편리해요",
+            "percent": 71,
+            "count": 860
+          },
+          {
+            "label": "보통이에요",
+            "percent": 27,
+            "count": 324
+          },
+          {
+            "label": "사용하기 불편해요",
+            "percent": 1,
+            "count": 12
+          }
+        ],
+        "total_responses": 1196
+      }
+    ]
+  },
+  "1068782": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 톤 커버크림 30 ml",
+    "avgRating": "4.8",
+    "revwCnt": "100",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 32,
+            "count": 93
+          },
+          {
+            "label": "건성",
+            "percent": 21,
+            "count": 63
+          },
+          {
+            "label": "중성",
+            "percent": 35,
+            "count": 102
+          },
+          {
+            "label": "민감성",
+            "percent": 10,
+            "count": 30
+          }
+        ],
+        "total_responses": 288
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 73,
+            "count": 213
+          },
+          {
+            "label": "보통이에요",
+            "percent": 25,
+            "count": 72
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 1,
+            "count": 3
+          }
+        ],
+        "total_responses": 288
+      },
+      {
+        "item": "촉촉함",
+        "question": "사용 후에도 촉촉한가요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 71,
+            "count": 207
+          },
+          {
+            "label": "보통이에요",
+            "percent": 25,
+            "count": 72
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 3,
+            "count": 9
+          }
+        ],
+        "total_responses": 288
+      }
+    ]
+  },
+  "1068779": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 토너 200 ml",
+    "avgRating": "4.8",
+    "revwCnt": "109",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 18,
+            "count": 6
+          },
+          {
+            "label": "건성",
+            "percent": 27,
+            "count": 9
+          },
+          {
+            "label": "중성",
+            "percent": 54,
+            "count": 18
+          },
+          {
+            "label": "민감성",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 33
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 79,
+            "count": 246
+          },
+          {
+            "label": "보통이에요",
+            "percent": 19,
+            "count": 60
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 0,
+            "count": 3
+          }
+        ],
+        "total_responses": 309
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 84,
+            "count": 261
+          },
+          {
+            "label": "보통이에요",
+            "percent": 15,
+            "count": 48
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 0
+          }
+        ],
+        "total_responses": 309
+      }
+    ]
+  },
+  "1068778": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 클렌징폼 120 ml",
+    "avgRating": "4.8",
+    "revwCnt": "118",
+    "attributes": [
+      {
+        "item": "피부타입",
+        "question": "어떤 피부타입에 추천하나요?",
+        "options": [
+          {
+            "label": "지성",
+            "percent": 52,
+            "count": 120
+          },
+          {
+            "label": "건성",
+            "percent": 13,
+            "count": 32
+          },
+          {
+            "label": "중성",
+            "percent": 25,
+            "count": 59
+          },
+          {
+            "label": "민감성",
+            "percent": 7,
+            "count": 18
+          }
+        ],
+        "total_responses": 229
+      },
+      {
+        "item": "보습력",
+        "question": "보습력은 마음에 드나요?",
+        "options": [
+          {
+            "label": "촉촉해요",
+            "percent": 40,
+            "count": 6
+          },
+          {
+            "label": "보통이에요",
+            "percent": 40,
+            "count": 6
+          },
+          {
+            "label": "약간 건조해요",
+            "percent": 20,
+            "count": 3
+          }
+        ],
+        "total_responses": 15
+      },
+      {
+        "item": "자극도",
+        "question": "자극은 괜찮나요?",
+        "options": [
+          {
+            "label": "순해요",
+            "percent": 76,
+            "count": 175
+          },
+          {
+            "label": "보통이에요",
+            "percent": 22,
+            "count": 52
+          },
+          {
+            "label": "자극이 있어요",
+            "percent": 0,
+            "count": 2
+          }
+        ],
+        "total_responses": 229
+      }
+    ]
+  }
+}

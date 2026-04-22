@@ -1,0 +1,8175 @@
+{
+  "1060644": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 부스터 앰플 30 ml",
+    "revwCnt": "2654",
+    "avgRating": "4.8",
+    "total_tokens": 8812,
+    "skincare_total": 3037,
+    "makeup_total": 574,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 842
+      },
+      {
+        "term": "피부",
+        "count": 310
+      },
+      {
+        "term": "수분",
+        "count": 304
+      },
+      {
+        "term": "흡수",
+        "count": 282
+      },
+      {
+        "term": "건조",
+        "count": 190
+      },
+      {
+        "term": "순함",
+        "count": 169
+      },
+      {
+        "term": "자극",
+        "count": 154
+      },
+      {
+        "term": "쫀쫀",
+        "count": 108
+      },
+      {
+        "term": "속건조",
+        "count": 97
+      },
+      {
+        "term": "트러블",
+        "count": 90
+      },
+      {
+        "term": "보습",
+        "count": 71
+      },
+      {
+        "term": "수분감",
+        "count": 52
+      },
+      {
+        "term": "민감성",
+        "count": 32
+      },
+      {
+        "term": "유분",
+        "count": 24
+      },
+      {
+        "term": "수분앰플",
+        "count": 23
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 231
+      },
+      {
+        "term": "메이크업_전",
+        "count": 146
+      },
+      {
+        "term": "파운데이션",
+        "count": 85
+      },
+      {
+        "term": "발림성",
+        "count": 40
+      },
+      {
+        "term": "베이스",
+        "count": 19
+      },
+      {
+        "term": "쿠션",
+        "count": 14
+      },
+      {
+        "term": "밀림",
+        "count": 6
+      },
+      {
+        "term": "커버",
+        "count": 6
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 842,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 310,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 304,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 282,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 279,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 231,
+        "category": "makeup"
+      },
+      {
+        "term": "건조",
+        "count": 190,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 169,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 155,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 154,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 152,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 146,
+        "category": "makeup"
+      },
+      {
+        "term": "쫀쫀",
+        "count": 108,
+        "category": "skincare"
+      },
+      {
+        "term": "속건조",
+        "count": 97,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 90,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 88,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 85,
+        "category": "makeup"
+      },
+      {
+        "term": "유명",
+        "count": 74,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 71,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 71,
+        "category": "skincare"
+      },
+      {
+        "term": "추천",
+        "count": 70,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 63,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 59,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 59,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 52,
+        "category": "skincare"
+      },
+      {
+        "term": "화장품",
+        "count": 52,
+        "category": "other"
+      },
+      {
+        "term": "품절",
+        "count": 49,
+        "category": "other"
+      },
+      {
+        "term": "앰프",
+        "count": 47,
+        "category": "other"
+      },
+      {
+        "term": "용량",
+        "count": 44,
+        "category": "other"
+      },
+      {
+        "term": "기초",
+        "count": 44,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 745,
+        "pos_rate_per_1k": 98.6,
+        "neg_rate_per_1k": 73.3,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 238,
+        "pos_rate_per_1k": 31.5,
+        "neg_rate_per_1k": 20.9,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 233,
+        "pos_rate_per_1k": 30.8,
+        "neg_rate_per_1k": 23.6,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 199,
+        "pos_rate_per_1k": 26.3,
+        "neg_rate_per_1k": 15.7,
+        "category": "makeup"
+      },
+      {
+        "term": "건조",
+        "count": 158,
+        "pos_rate_per_1k": 20.9,
+        "neg_rate_per_1k": 13.1,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 153,
+        "pos_rate_per_1k": 20.2,
+        "neg_rate_per_1k": 7.9,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 146,
+        "pos_rate_per_1k": 19.3,
+        "neg_rate_per_1k": 7.9,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 138,
+        "pos_rate_per_1k": 18.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "쫀쫀",
+        "count": 100,
+        "pos_rate_per_1k": 13.2,
+        "neg_rate_per_1k": 5.2,
+        "category": "skincare"
+      },
+      {
+        "term": "속건조",
+        "count": 89,
+        "pos_rate_per_1k": 11.8,
+        "neg_rate_per_1k": 5.2,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 84,
+        "pos_rate_per_1k": 11.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 70,
+        "pos_rate_per_1k": 9.3,
+        "neg_rate_per_1k": 5.2,
+        "category": "makeup"
+      },
+      {
+        "term": "유명",
+        "count": 66,
+        "pos_rate_per_1k": 8.7,
+        "neg_rate_per_1k": 2.6,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 60,
+        "pos_rate_per_1k": 7.9,
+        "neg_rate_per_1k": 2.6,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 51,
+        "pos_rate_per_1k": 6.7,
+        "neg_rate_per_1k": 2.6,
+        "category": "other"
+      },
+      {
+        "term": "화장품",
+        "count": 48,
+        "pos_rate_per_1k": 6.4,
+        "neg_rate_per_1k": 5.2,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 46,
+        "pos_rate_per_1k": 6.1,
+        "neg_rate_per_1k": 2.6,
+        "category": "skincare"
+      },
+      {
+        "term": "품절",
+        "count": 46,
+        "pos_rate_per_1k": 6.1,
+        "neg_rate_per_1k": 2.6,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 37,
+        "pos_rate_per_1k": 4.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 36,
+        "pos_rate_per_1k": 4.8,
+        "neg_rate_per_1k": 2.6,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "촉촉",
+        "count": 28,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 16,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 13,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "만족",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "흡수",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 7,
+        "category": "makeup"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 6,
+        "category": "makeup"
+      },
+      {
+        "term": "건조",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "보습",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "참고",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "민감성",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "앰프",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "비추",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 3,
+        "category": "skincare"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 182
+      },
+      {
+        "label": "가성비검색",
+        "count": 81
+      },
+      {
+        "label": "유명해서",
+        "count": 67
+      },
+      {
+        "label": "올리브영비교",
+        "count": 15
+      },
+      {
+        "label": "처음사용",
+        "count": 14
+      },
+      {
+        "label": "유튜브",
+        "count": 9
+      },
+      {
+        "label": "다른제품비교",
+        "count": 8
+      },
+      {
+        "label": "인스타",
+        "count": 6
+      },
+      {
+        "label": "지인추천",
+        "count": 5
+      },
+      {
+        "label": "브랜드팬",
+        "count": 4
+      },
+      {
+        "label": "성분검색",
+        "count": 4
+      },
+      {
+        "label": "다이소검색",
+        "count": 3
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 91
+      },
+      {
+        "label": "끈적임",
+        "count": 29
+      },
+      {
+        "label": "기대이하",
+        "count": 17
+      },
+      {
+        "label": "밀림",
+        "count": 15
+      },
+      {
+        "label": "안맞음",
+        "count": 6
+      },
+      {
+        "label": "트러블남",
+        "count": 6
+      },
+      {
+        "label": "흡수느림",
+        "count": 2
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "저한테는 안맞나봐요 ㅠㅠ "
+      },
+      {
+        "score": 3,
+        "text": "촉촉하게 발려요&lt;br&gt;꾸준히 사용해볼께요"
+      },
+      {
+        "score": 1,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 2,
+        "text": ""
+      }
+    ],
+    "pdNo": "1060644"
+  },
+  "1073406": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 스킨핏프렙 40 ml",
+    "revwCnt": "904",
+    "avgRating": "4.8",
+    "total_tokens": 2775,
+    "skincare_total": 749,
+    "makeup_total": 414,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 221
+      },
+      {
+        "term": "피부",
+        "count": 102
+      },
+      {
+        "term": "수분",
+        "count": 72
+      },
+      {
+        "term": "쫀쫀",
+        "count": 60
+      },
+      {
+        "term": "건조",
+        "count": 48
+      },
+      {
+        "term": "흡수",
+        "count": 46
+      },
+      {
+        "term": "자극",
+        "count": 28
+      },
+      {
+        "term": "각질",
+        "count": 22
+      },
+      {
+        "term": "트러블",
+        "count": 16
+      },
+      {
+        "term": "순함",
+        "count": 16
+      },
+      {
+        "term": "유분",
+        "count": 10
+      },
+      {
+        "term": "속건조",
+        "count": 10
+      },
+      {
+        "term": "피부결",
+        "count": 10
+      },
+      {
+        "term": "수분감",
+        "count": 10
+      },
+      {
+        "term": "민감성",
+        "count": 8
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 165
+      },
+      {
+        "term": "메이크업_전",
+        "count": 75
+      },
+      {
+        "term": "파운데이션",
+        "count": 47
+      },
+      {
+        "term": "베이스",
+        "count": 34
+      },
+      {
+        "term": "발림성",
+        "count": 17
+      },
+      {
+        "term": "쿠션",
+        "count": 14
+      },
+      {
+        "term": "프라이머",
+        "count": 10
+      },
+      {
+        "term": "지속력",
+        "count": 7
+      },
+      {
+        "term": "밀림",
+        "count": 6
+      },
+      {
+        "term": "밀착",
+        "count": 4
+      },
+      {
+        "term": "밀착력",
+        "count": 3
+      },
+      {
+        "term": "베이스프렙",
+        "count": 3
+      },
+      {
+        "term": "커버",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 221,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 165,
+        "category": "makeup"
+      },
+      {
+        "term": "피부",
+        "count": 102,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 83,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 75,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 72,
+        "category": "skincare"
+      },
+      {
+        "term": "쫀쫀",
+        "count": 60,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 48,
+        "category": "skincare"
+      },
+      {
+        "term": "파운데이션",
+        "count": 47,
+        "category": "makeup"
+      },
+      {
+        "term": "흡수",
+        "count": 46,
+        "category": "skincare"
+      },
+      {
+        "term": "유명",
+        "count": 45,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 40,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 36,
+        "category": "other"
+      },
+      {
+        "term": "베이스",
+        "count": 34,
+        "category": "makeup"
+      },
+      {
+        "term": "재구매",
+        "count": 30,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 28,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 27,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 23,
+        "category": "other"
+      },
+      {
+        "term": "품절",
+        "count": 23,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 22,
+        "category": "skincare"
+      },
+      {
+        "term": "기초",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "요즘",
+        "count": 17,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 17,
+        "category": "makeup"
+      },
+      {
+        "term": "트러블",
+        "count": 16,
+        "category": "skincare"
+      },
+      {
+        "term": "프렙",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 16,
+        "category": "skincare"
+      },
+      {
+        "term": "마지막",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "스킨케어",
+        "count": 14,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 149,
+        "pos_rate_per_1k": 64.4,
+        "neg_rate_per_1k": 20.4,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 76,
+        "pos_rate_per_1k": 32.8,
+        "neg_rate_per_1k": 6.8,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 74,
+        "pos_rate_per_1k": 32.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 61,
+        "pos_rate_per_1k": 26.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "파운데이션",
+        "count": 41,
+        "pos_rate_per_1k": 17.7,
+        "neg_rate_per_1k": 13.6,
+        "category": "makeup"
+      },
+      {
+        "term": "흡수",
+        "count": 40,
+        "pos_rate_per_1k": 17.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "유명",
+        "count": 39,
+        "pos_rate_per_1k": 16.8,
+        "neg_rate_per_1k": 13.6,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 36,
+        "pos_rate_per_1k": 15.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 32,
+        "pos_rate_per_1k": 13.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 29,
+        "pos_rate_per_1k": 12.5,
+        "neg_rate_per_1k": 6.8,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 24,
+        "pos_rate_per_1k": 10.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "품절",
+        "count": 23,
+        "pos_rate_per_1k": 9.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "기초",
+        "count": 19,
+        "pos_rate_per_1k": 8.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 15,
+        "pos_rate_per_1k": 6.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "발림성",
+        "count": 15,
+        "pos_rate_per_1k": 6.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "프렙",
+        "count": 14,
+        "pos_rate_per_1k": 6.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 12,
+        "pos_rate_per_1k": 5.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 12,
+        "pos_rate_per_1k": 5.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "스킨케어",
+        "count": 12,
+        "pos_rate_per_1k": 5.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "마지막",
+        "count": 11,
+        "pos_rate_per_1k": 4.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "촉촉",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "베이스",
+        "count": 6,
+        "category": "makeup"
+      },
+      {
+        "term": "피부",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "쫀쫀",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 3,
+        "category": "skincare"
+      },
+      {
+        "term": "지속력",
+        "count": 3,
+        "category": "makeup"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 3,
+        "category": "makeup"
+      },
+      {
+        "term": "지속",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "사용법",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "유명",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "상태",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 2,
+        "category": "makeup"
+      },
+      {
+        "term": "장점",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "선크림",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "후회",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "유명해서",
+        "count": 45
+      },
+      {
+        "label": "재구매",
+        "count": 35
+      },
+      {
+        "label": "가성비검색",
+        "count": 21
+      },
+      {
+        "label": "인스타",
+        "count": 7
+      },
+      {
+        "label": "처음사용",
+        "count": 6
+      },
+      {
+        "label": "유튜브",
+        "count": 4
+      },
+      {
+        "label": "올리브영비교",
+        "count": 4
+      },
+      {
+        "label": "다른제품비교",
+        "count": 2
+      },
+      {
+        "label": "선물",
+        "count": 2
+      },
+      {
+        "label": "지인추천",
+        "count": 2
+      },
+      {
+        "label": "다이소검색",
+        "count": 2
+      },
+      {
+        "label": "브랜드팬",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 33
+      },
+      {
+        "label": "밀림",
+        "count": 18
+      },
+      {
+        "label": "기대이하",
+        "count": 7
+      },
+      {
+        "label": "끈적임",
+        "count": 5
+      },
+      {
+        "label": "안맞음",
+        "count": 3
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      },
+      {
+        "label": "흡수느림",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "리뷰 좋고 유명해서 구매해요"
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": "히알인데..촉촉 윤광..어쩌고..전혀 모르겠어요 건성도 아닌데 얼굴에 올리면 꽤나 건조한 편 "
+      },
+      {
+        "score": 1,
+        "text": "상품은 좋은데 배송 제발&lt;br&gt;아니 저희 집이 ○○7동인데 7을 어떻게 1로 보고 늘 거기다가 갔다놓죠?? 이제부터 한진은 이용안해야겠어요...ㅋㅋ + 제품은 개좋아요"
+      },
+      {
+        "score": 3,
+        "text": "건조해지는 느낌이에요"
+      }
+    ],
+    "pdNo": "1073406"
+  },
+  "1060645": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 크림 50 ml",
+    "revwCnt": "3334",
+    "avgRating": "4.8",
+    "total_tokens": 10878,
+    "skincare_total": 4033,
+    "makeup_total": 970,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 1228
+      },
+      {
+        "term": "수분",
+        "count": 496
+      },
+      {
+        "term": "피부",
+        "count": 332
+      },
+      {
+        "term": "흡수",
+        "count": 268
+      },
+      {
+        "term": "순함",
+        "count": 253
+      },
+      {
+        "term": "자극",
+        "count": 235
+      },
+      {
+        "term": "건조",
+        "count": 173
+      },
+      {
+        "term": "수분크림",
+        "count": 128
+      },
+      {
+        "term": "유분",
+        "count": 116
+      },
+      {
+        "term": "보습",
+        "count": 111
+      },
+      {
+        "term": "수분감",
+        "count": 92
+      },
+      {
+        "term": "트러블",
+        "count": 88
+      },
+      {
+        "term": "속건조",
+        "count": 67
+      },
+      {
+        "term": "쫀쫀",
+        "count": 48
+      },
+      {
+        "term": "광크림",
+        "count": 45
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 407
+      },
+      {
+        "term": "메이크업_전",
+        "count": 245
+      },
+      {
+        "term": "발림성",
+        "count": 136
+      },
+      {
+        "term": "파운데이션",
+        "count": 49
+      },
+      {
+        "term": "쿠션",
+        "count": 24
+      },
+      {
+        "term": "베이스",
+        "count": 22
+      },
+      {
+        "term": "밀림",
+        "count": 14
+      },
+      {
+        "term": "커버",
+        "count": 12
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 1228,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 496,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 407,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 371,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 332,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 268,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 253,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 245,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 238,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 235,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 186,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 173,
+        "category": "skincare"
+      },
+      {
+        "term": "발림성",
+        "count": 136,
+        "category": "makeup"
+      },
+      {
+        "term": "수분크림",
+        "count": 128,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 118,
+        "category": "other"
+      },
+      {
+        "term": "유분",
+        "count": 116,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 113,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 111,
+        "category": "skincare"
+      },
+      {
+        "term": "유명",
+        "count": 98,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 97,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 92,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 89,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 88,
+        "category": "skincare"
+      },
+      {
+        "term": "건성",
+        "count": 85,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 77,
+        "category": "other"
+      },
+      {
+        "term": "속건조",
+        "count": 67,
+        "category": "skincare"
+      },
+      {
+        "term": "화장품",
+        "count": 61,
+        "category": "other"
+      },
+      {
+        "term": "겨울",
+        "count": 59,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 55,
+        "category": "other"
+      },
+      {
+        "term": "저렴하다",
+        "count": 50,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "만족",
+        "count": 325,
+        "pos_rate_per_1k": 35.3,
+        "neg_rate_per_1k": 16.1,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 222,
+        "pos_rate_per_1k": 24.1,
+        "neg_rate_per_1k": 16.1,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 209,
+        "pos_rate_per_1k": 22.7,
+        "neg_rate_per_1k": 13.8,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 198,
+        "pos_rate_per_1k": 21.5,
+        "neg_rate_per_1k": 13.8,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 172,
+        "pos_rate_per_1k": 18.7,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 109,
+        "pos_rate_per_1k": 11.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 108,
+        "pos_rate_per_1k": 11.7,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 108,
+        "pos_rate_per_1k": 11.7,
+        "neg_rate_per_1k": 9.2,
+        "category": "makeup"
+      },
+      {
+        "term": "추천",
+        "count": 87,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      },
+      {
+        "term": "유명",
+        "count": 86,
+        "pos_rate_per_1k": 9.3,
+        "neg_rate_per_1k": 6.9,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 79,
+        "pos_rate_per_1k": 8.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 67,
+        "pos_rate_per_1k": 7.3,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 51,
+        "pos_rate_per_1k": 5.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 47,
+        "pos_rate_per_1k": 5.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "요즘",
+        "count": 43,
+        "pos_rate_per_1k": 4.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "저렴하다",
+        "count": 43,
+        "pos_rate_per_1k": 4.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "품절",
+        "count": 42,
+        "pos_rate_per_1k": 4.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 29,
+        "pos_rate_per_1k": 3.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "제형",
+        "count": 28,
+        "pos_rate_per_1k": 3.0,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      },
+      {
+        "term": "구매의사",
+        "count": 26,
+        "pos_rate_per_1k": 2.8,
+        "neg_rate_per_1k": 2.3,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "촉촉",
+        "count": 43,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 27,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 18,
+        "category": "makeup"
+      },
+      {
+        "term": "흡수",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "보습",
+        "count": 15,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 13,
+        "category": "skincare"
+      },
+      {
+        "term": "건성",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "수분크림",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 7,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 6,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "여름",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "지성",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "유분",
+        "count": 4,
+        "category": "skincare"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 216
+      },
+      {
+        "label": "가성비검색",
+        "count": 126
+      },
+      {
+        "label": "유명해서",
+        "count": 97
+      },
+      {
+        "label": "처음사용",
+        "count": 19
+      },
+      {
+        "label": "다른제품비교",
+        "count": 15
+      },
+      {
+        "label": "올리브영비교",
+        "count": 12
+      },
+      {
+        "label": "유튜브",
+        "count": 12
+      },
+      {
+        "label": "인스타",
+        "count": 7
+      },
+      {
+        "label": "다이소검색",
+        "count": 7
+      },
+      {
+        "label": "성분검색",
+        "count": 4
+      },
+      {
+        "label": "브랜드팬",
+        "count": 4
+      },
+      {
+        "label": "선물",
+        "count": 2
+      },
+      {
+        "label": "지인추천",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 95
+      },
+      {
+        "label": "밀림",
+        "count": 44
+      },
+      {
+        "label": "끈적임",
+        "count": 29
+      },
+      {
+        "label": "기대이하",
+        "count": 23
+      },
+      {
+        "label": "트러블남",
+        "count": 8
+      },
+      {
+        "label": "안맞음",
+        "count": 8
+      },
+      {
+        "label": "자극",
+        "count": 2
+      },
+      {
+        "label": "흡수느림",
+        "count": 2
+      },
+      {
+        "label": "향별로",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "저는 지성 피부고 생각보다 그렇게 촉촉하지 않습니다 많은 기대를 하면 안되는 제품.."
+      },
+      {
+        "score": 3,
+        "text": "물광 효과는 좋지만 트러블이 좀 생기더라구요. 매일 바르는것 보다 화장에 힘 주고싶은날 사용해요"
+      },
+      {
+        "score": 3,
+        "text": "용기가 끝까지 나오지 않아서 항상 아쉬으ㅏ요"
+      },
+      {
+        "score": 3,
+        "text": "사람들이 엄청 추천하길래 사봤는데 딱히 좋지도 나쁘지도 않아요"
+      },
+      {
+        "score": 3,
+        "text": ""
+      }
+    ],
+    "pdNo": "1060645"
+  },
+  "1073408": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 선에센스 40 ml",
+    "revwCnt": "168",
+    "avgRating": "4.7",
+    "total_tokens": 946,
+    "skincare_total": 342,
+    "makeup_total": 96,
+    "skincare_keywords": [
+      {
+        "term": "선크림",
+        "count": 78
+      },
+      {
+        "term": "촉촉",
+        "count": 77
+      },
+      {
+        "term": "피부",
+        "count": 29
+      },
+      {
+        "term": "선에센스",
+        "count": 18
+      },
+      {
+        "term": "수분",
+        "count": 17
+      },
+      {
+        "term": "건조",
+        "count": 12
+      },
+      {
+        "term": "순함",
+        "count": 11
+      },
+      {
+        "term": "자극",
+        "count": 10
+      },
+      {
+        "term": "썬크림",
+        "count": 9
+      },
+      {
+        "term": "트러블",
+        "count": 8
+      },
+      {
+        "term": "유분",
+        "count": 6
+      },
+      {
+        "term": "흡수",
+        "count": 6
+      },
+      {
+        "term": "끈적임",
+        "count": 5
+      },
+      {
+        "term": "수분감",
+        "count": 4
+      },
+      {
+        "term": "모공",
+        "count": 4
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "발림성",
+        "count": 29
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 21
+      },
+      {
+        "term": "백탁",
+        "count": 18
+      },
+      {
+        "term": "메이크업_전",
+        "count": 12
+      },
+      {
+        "term": "파운데이션",
+        "count": 3
+      },
+      {
+        "term": "밀림",
+        "count": 3
+      },
+      {
+        "term": "쿠션",
+        "count": 2
+      },
+      {
+        "term": "구버전파데에",
+        "count": 1
+      },
+      {
+        "term": "에스티 로더구버전파데에",
+        "count": 1
+      },
+      {
+        "term": "파데전",
+        "count": 1
+      },
+      {
+        "term": "베이스",
+        "count": 1
+      },
+      {
+        "term": "커버력",
+        "count": 1
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "선크림",
+        "count": 78,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 77,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 29,
+        "category": "skincare"
+      },
+      {
+        "term": "발림성",
+        "count": 29,
+        "category": "makeup"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 21,
+        "category": "makeup"
+      },
+      {
+        "term": "선에센스",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "백탁",
+        "count": 18,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 12,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 11,
+        "category": "skincare"
+      },
+      {
+        "term": "시리다",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "썬크림",
+        "count": 9,
+        "category": "skincare"
+      },
+      {
+        "term": "지성",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "다르다",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "기초",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "자외선",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "유분",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "기자",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "더랩",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "끈적임",
+        "count": 5,
+        "category": "skincare"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 67,
+        "pos_rate_per_1k": 92.0,
+        "neg_rate_per_1k": 17.7,
+        "category": "skincare"
+      },
+      {
+        "term": "선크림",
+        "count": 62,
+        "pos_rate_per_1k": 85.2,
+        "neg_rate_per_1k": 70.8,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 37,
+        "pos_rate_per_1k": 50.8,
+        "neg_rate_per_1k": 8.8,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 25,
+        "pos_rate_per_1k": 34.3,
+        "neg_rate_per_1k": 17.7,
+        "category": "makeup"
+      },
+      {
+        "term": "피부",
+        "count": 24,
+        "pos_rate_per_1k": 33.0,
+        "neg_rate_per_1k": 17.7,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 18,
+        "pos_rate_per_1k": 24.7,
+        "neg_rate_per_1k": 8.8,
+        "category": "makeup"
+      },
+      {
+        "term": "백탁",
+        "count": 15,
+        "pos_rate_per_1k": 20.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "선에센스",
+        "count": 14,
+        "pos_rate_per_1k": 19.2,
+        "neg_rate_per_1k": 8.8,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 11,
+        "pos_rate_per_1k": 15.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "건조",
+        "count": 11,
+        "pos_rate_per_1k": 15.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "선크림",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "시리다",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "눈물",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "더랩",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "기초",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "클렌징",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "지성",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "지성피부",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "다르다",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 2,
+        "category": "makeup"
+      },
+      {
+        "term": "오후",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "오전",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "데일리",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "바하",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "이해",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 6
+      },
+      {
+        "label": "가성비검색",
+        "count": 6
+      },
+      {
+        "label": "유튜브",
+        "count": 4
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      },
+      {
+        "label": "브랜드팬",
+        "count": 1
+      },
+      {
+        "label": "블로그",
+        "count": 1
+      },
+      {
+        "label": "인스타",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "밀림",
+        "count": 11
+      },
+      {
+        "label": "가루",
+        "count": 11
+      },
+      {
+        "label": "건조",
+        "count": 8
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      },
+      {
+        "label": "기대이하",
+        "count": 1
+      },
+      {
+        "label": "향별로",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "지성피부에는 약간 겉도는 느낌이 드네요&lt;br&gt;"
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 2,
+        "text": "음&hellip; 데일리로 쓰는 선크림에 왜 아하인지 바하인지를 넣엇냐고 이해안간다는 리뷰봣는데 계속 써보니 알겠네요 바르고잇다가 5시간만 지나도 얼굴이 따가움&hellip;. 뭔 생각으로 만든거에여 진짜? 강제로 팔이 써야함&hellip; 뭐하자는건지&nbsp;"
+      },
+      {
+        "score": 3,
+        "text": "좋다해서 사봤어요 에스티로더 구버전파데에 괜찮네요"
+      },
+      {
+        "score": 3,
+        "text": "아직 사용 전이라 잘 모르겠습니다."
+      }
+    ],
+    "pdNo": "1073408"
+  },
+  "1073405": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 세럼미스트 150 ml",
+    "revwCnt": "427",
+    "avgRating": "4.7",
+    "total_tokens": 1460,
+    "skincare_total": 497,
+    "makeup_total": 75,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 127
+      },
+      {
+        "term": "수분",
+        "count": 76
+      },
+      {
+        "term": "건조",
+        "count": 58
+      },
+      {
+        "term": "피부",
+        "count": 41
+      },
+      {
+        "term": "순함",
+        "count": 38
+      },
+      {
+        "term": "자극",
+        "count": 30
+      },
+      {
+        "term": "흡수",
+        "count": 20
+      },
+      {
+        "term": "보습",
+        "count": 18
+      },
+      {
+        "term": "유분",
+        "count": 12
+      },
+      {
+        "term": "수분감",
+        "count": 10
+      },
+      {
+        "term": "트러블",
+        "count": 10
+      },
+      {
+        "term": "민감성",
+        "count": 8
+      },
+      {
+        "term": "각질",
+        "count": 8
+      },
+      {
+        "term": "속건조",
+        "count": 6
+      },
+      {
+        "term": "윤기",
+        "count": 6
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 32
+      },
+      {
+        "term": "메이크업_전",
+        "count": 31
+      },
+      {
+        "term": "쿠션",
+        "count": 4
+      },
+      {
+        "term": "베이스",
+        "count": 3
+      },
+      {
+        "term": "프라이머",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 127,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 76,
+        "category": "skincare"
+      },
+      {
+        "term": "미스트",
+        "count": 66,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 58,
+        "category": "skincare"
+      },
+      {
+        "term": "분사",
+        "count": 53,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 41,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 38,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 35,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 32,
+        "category": "makeup"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 31,
+        "category": "makeup"
+      },
+      {
+        "term": "자극",
+        "count": 30,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 24,
+        "category": "other"
+      },
+      {
+        "term": "흡수",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "샤워",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "냄새",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "유분",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "안개",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "퍼프",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "안개분사",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "세안",
+        "count": 9,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 113,
+        "pos_rate_per_1k": 100.0,
+        "neg_rate_per_1k": 8.3,
+        "category": "skincare"
+      },
+      {
+        "term": "분사",
+        "count": 39,
+        "pos_rate_per_1k": 34.5,
+        "neg_rate_per_1k": 25.0,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 36,
+        "pos_rate_per_1k": 31.9,
+        "neg_rate_per_1k": 16.7,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 31,
+        "pos_rate_per_1k": 27.4,
+        "neg_rate_per_1k": 16.7,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 29,
+        "pos_rate_per_1k": 25.7,
+        "neg_rate_per_1k": 8.3,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 25,
+        "pos_rate_per_1k": 22.1,
+        "neg_rate_per_1k": 8.3,
+        "category": "makeup"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 24,
+        "pos_rate_per_1k": 21.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 18,
+        "pos_rate_per_1k": 15.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "흡수",
+        "count": 18,
+        "pos_rate_per_1k": 15.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 12,
+        "pos_rate_per_1k": 10.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 12,
+        "pos_rate_per_1k": 10.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "유분",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "수분",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "미스트",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "분사",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 3,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "냄새",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "입점",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "악건성",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "초딩",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "초딩때",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "로드",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "로드샵",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "동물",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 17
+      },
+      {
+        "label": "가성비검색",
+        "count": 12
+      },
+      {
+        "label": "유명해서",
+        "count": 3
+      },
+      {
+        "label": "성분검색",
+        "count": 3
+      },
+      {
+        "label": "처음사용",
+        "count": 2
+      },
+      {
+        "label": "유튜브",
+        "count": 2
+      },
+      {
+        "label": "인스타",
+        "count": 1
+      },
+      {
+        "label": "다이소검색",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 31
+      },
+      {
+        "label": "기대이하",
+        "count": 7
+      },
+      {
+        "label": "끈적임",
+        "count": 5
+      },
+      {
+        "label": "밀림",
+        "count": 2
+      },
+      {
+        "label": "향별로",
+        "count": 1
+      },
+      {
+        "label": "자극",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "향 ㅂㄹ예요 초딩때 쓰던 로드샵 동물 케이스 미스트 냄새 나요&lt;br&gt;자극0 아님 분사력은 아주 좋음!&lt;br&gt;"
+      },
+      {
+        "score": 3,
+        "text": "다른 미스트사는 게 더 좋을 것 같아요 여기 제품 다이소 입점 전부터 좋아했고 입점 후에는 수분크림 잘쓰고 있는데 이건 솔직히 별로네욤 &bull; &bull; &nbsp;세럼 미스트인데도 수분감 보습감 다 그닥 못느끼겠어요 재구매 안할 것 같습니다~~@.@"
+      },
+      {
+        "score": 3,
+        "text": "광은 솔직히 잘 모르겠어요 욕실에 놔두고 생각날 때 한번씩 사용중이요"
+      },
+      {
+        "score": 3,
+        "text": "자극없이 쓰는 편이에요.처음 사용시에는 보습력이 좋다고 생각 하였는데 쓸 수록 많이 건조 해서 레어링 하는데도 건조함이 있네요."
+      },
+      {
+        "score": 3,
+        "text": ""
+      }
+    ],
+    "pdNo": "1073405"
+  },
+  "1068781": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 선크림 35 ml",
+    "revwCnt": "153",
+    "avgRating": "4.9",
+    "total_tokens": 1434,
+    "skincare_total": 442,
+    "makeup_total": 130,
+    "skincare_keywords": [
+      {
+        "term": "선크림",
+        "count": 126
+      },
+      {
+        "term": "촉촉",
+        "count": 59
+      },
+      {
+        "term": "피부",
+        "count": 42
+      },
+      {
+        "term": "흡수",
+        "count": 36
+      },
+      {
+        "term": "산뜻",
+        "count": 27
+      },
+      {
+        "term": "끈적임",
+        "count": 25
+      },
+      {
+        "term": "자극",
+        "count": 24
+      },
+      {
+        "term": "수분",
+        "count": 19
+      },
+      {
+        "term": "유분",
+        "count": 16
+      },
+      {
+        "term": "트러블",
+        "count": 12
+      },
+      {
+        "term": "순함",
+        "count": 10
+      },
+      {
+        "term": "썬크림",
+        "count": 10
+      },
+      {
+        "term": "건조",
+        "count": 6
+      },
+      {
+        "term": "수분감",
+        "count": 6
+      },
+      {
+        "term": "수분크림",
+        "count": 5
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "백탁",
+        "count": 76
+      },
+      {
+        "term": "발림성",
+        "count": 29
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 8
+      },
+      {
+        "term": "밀림",
+        "count": 6
+      },
+      {
+        "term": "피부톤",
+        "count": 5
+      },
+      {
+        "term": "메이크업_전",
+        "count": 4
+      },
+      {
+        "term": "밀착",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "선크림",
+        "count": 126,
+        "category": "skincare"
+      },
+      {
+        "term": "백탁",
+        "count": 76,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 70,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 59,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 42,
+        "category": "skincare"
+      },
+      {
+        "term": "자외선",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "흡수",
+        "count": 36,
+        "category": "skincare"
+      },
+      {
+        "term": "발림성",
+        "count": 29,
+        "category": "makeup"
+      },
+      {
+        "term": "산뜻",
+        "count": 27,
+        "category": "skincare"
+      },
+      {
+        "term": "끈적임",
+        "count": 25,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 24,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 22,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 21,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 19,
+        "category": "skincare"
+      },
+      {
+        "term": "현상",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 18,
+        "category": "other"
+      },
+      {
+        "term": "유분",
+        "count": 16,
+        "category": "skincare"
+      },
+      {
+        "term": "데일리",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "차단",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "자외선차단",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "백탁현상",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "로션",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "편하다",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "썬크림",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "외출",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 9,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "선크림",
+        "count": 124,
+        "pos_rate_per_1k": 89.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 69,
+        "pos_rate_per_1k": 49.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 41,
+        "pos_rate_per_1k": 29.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "자외선",
+        "count": 38,
+        "pos_rate_per_1k": 27.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "흡수",
+        "count": 36,
+        "pos_rate_per_1k": 26.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "산뜻",
+        "count": 27,
+        "pos_rate_per_1k": 19.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "발림성",
+        "count": 27,
+        "pos_rate_per_1k": 19.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "끈적임",
+        "count": 25,
+        "pos_rate_per_1k": 18.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 24,
+        "pos_rate_per_1k": 17.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 22,
+        "pos_rate_per_1k": 15.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 21,
+        "pos_rate_per_1k": 15.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "현상",
+        "count": 19,
+        "pos_rate_per_1k": 13.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 18,
+        "pos_rate_per_1k": 13.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 17,
+        "pos_rate_per_1k": 12.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "유분",
+        "count": 16,
+        "pos_rate_per_1k": 11.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "데일리",
+        "count": 16,
+        "pos_rate_per_1k": 11.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "차단",
+        "count": 14,
+        "pos_rate_per_1k": 10.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "자외선차단",
+        "count": 13,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 13,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "백탁현상",
+        "count": 13,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "백탁",
+        "count": 2,
+        "category": "makeup"
+      },
+      {
+        "term": "촉촉",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "시리다",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "다이소썬",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "썬기능",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "기능제품",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "냄새",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "스킨케어",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "가성비검색",
+        "count": 11
+      },
+      {
+        "label": "재구매",
+        "count": 9
+      },
+      {
+        "label": "다이소검색",
+        "count": 2
+      },
+      {
+        "label": "선물",
+        "count": 2
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      },
+      {
+        "label": "올리브영비교",
+        "count": 1
+      },
+      {
+        "label": "성분검색",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "가루",
+        "count": 44
+      },
+      {
+        "label": "끈적임",
+        "count": 14
+      },
+      {
+        "label": "밀림",
+        "count": 6
+      },
+      {
+        "label": "건조",
+        "count": 4
+      },
+      {
+        "label": "기대이하",
+        "count": 3
+      },
+      {
+        "label": "트러블남",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": "눈 시림 좀 있고 백탁 없고 좋아여 다이소 썬기능 제품들 중에 냄새가 제일 좋은거 같아여 좀 촉촉한데 스킨케어 안하고 바르면 좀 얼굴이 따가워요"
+      }
+    ],
+    "pdNo": "1068781"
+  },
+  "1060643": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 토너 150 ml",
+    "revwCnt": "625",
+    "avgRating": "4.7",
+    "total_tokens": 2511,
+    "skincare_total": 896,
+    "makeup_total": 57,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 194
+      },
+      {
+        "term": "순함",
+        "count": 81
+      },
+      {
+        "term": "흡수",
+        "count": 80
+      },
+      {
+        "term": "수분",
+        "count": 79
+      },
+      {
+        "term": "피부",
+        "count": 66
+      },
+      {
+        "term": "자극",
+        "count": 64
+      },
+      {
+        "term": "건조",
+        "count": 49
+      },
+      {
+        "term": "보습",
+        "count": 33
+      },
+      {
+        "term": "트러블",
+        "count": 33
+      },
+      {
+        "term": "속건조",
+        "count": 20
+      },
+      {
+        "term": "각질",
+        "count": 18
+      },
+      {
+        "term": "산뜻",
+        "count": 13
+      },
+      {
+        "term": "수분감",
+        "count": 13
+      },
+      {
+        "term": "토너패드",
+        "count": 12
+      },
+      {
+        "term": "물토너",
+        "count": 11
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 31
+      },
+      {
+        "term": "메이크업_전",
+        "count": 14
+      },
+      {
+        "term": "발림성",
+        "count": 6
+      },
+      {
+        "term": "파운데이션",
+        "count": 4
+      },
+      {
+        "term": "쿠션",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 194,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 82,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 81,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 80,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 79,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 66,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 64,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 49,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 33,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 33,
+        "category": "skincare"
+      },
+      {
+        "term": "미스트",
+        "count": 32,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 31,
+        "category": "makeup"
+      },
+      {
+        "term": "재구매",
+        "count": 26,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 26,
+        "category": "other"
+      },
+      {
+        "term": "속건조",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "용량",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "분사",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "스프레이",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "화장품",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "추천",
+        "count": 18,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 17,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "안개",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "안개분사",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "패드",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 14,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 160,
+        "pos_rate_per_1k": 80.5,
+        "neg_rate_per_1k": 29.4,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 64,
+        "pos_rate_per_1k": 32.2,
+        "neg_rate_per_1k": 11.8,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 32,
+        "pos_rate_per_1k": 16.1,
+        "neg_rate_per_1k": 11.8,
+        "category": "other"
+      },
+      {
+        "term": "미스트",
+        "count": 26,
+        "pos_rate_per_1k": 13.1,
+        "neg_rate_per_1k": 5.9,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 25,
+        "pos_rate_per_1k": 12.6,
+        "neg_rate_per_1k": 5.9,
+        "category": "makeup"
+      },
+      {
+        "term": "빠름",
+        "count": 23,
+        "pos_rate_per_1k": 11.6,
+        "neg_rate_per_1k": 5.9,
+        "category": "other"
+      },
+      {
+        "term": "속건조",
+        "count": 20,
+        "pos_rate_per_1k": 10.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "화장품",
+        "count": 18,
+        "pos_rate_per_1k": 9.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 16,
+        "pos_rate_per_1k": 8.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 15,
+        "pos_rate_per_1k": 7.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "분사",
+        "count": 14,
+        "pos_rate_per_1k": 7.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 14,
+        "pos_rate_per_1k": 7.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "용량",
+        "count": 14,
+        "pos_rate_per_1k": 7.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "패드",
+        "count": 13,
+        "pos_rate_per_1k": 6.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "안개",
+        "count": 12,
+        "pos_rate_per_1k": 6.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "안개분사",
+        "count": 12,
+        "pos_rate_per_1k": 6.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "스프레이",
+        "count": 12,
+        "pos_rate_per_1k": 6.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 12,
+        "pos_rate_per_1k": 6.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "산뜻",
+        "count": 11,
+        "pos_rate_per_1k": 5.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "토너패드",
+        "count": 10,
+        "pos_rate_per_1k": 5.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "민감성",
+        "count": 7,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "각질",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "제거",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "각질제거",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "히알루론산",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "히알루론산토너",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "나쁘다",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "건성",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 2,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 28
+      },
+      {
+        "label": "가성비검색",
+        "count": 21
+      },
+      {
+        "label": "유명해서",
+        "count": 11
+      },
+      {
+        "label": "유튜브",
+        "count": 6
+      },
+      {
+        "label": "올리브영비교",
+        "count": 5
+      },
+      {
+        "label": "브랜드팬",
+        "count": 4
+      },
+      {
+        "label": "처음사용",
+        "count": 4
+      },
+      {
+        "label": "성분검색",
+        "count": 4
+      },
+      {
+        "label": "인스타",
+        "count": 3
+      },
+      {
+        "label": "다른제품비교",
+        "count": 3
+      },
+      {
+        "label": "다이소검색",
+        "count": 3
+      },
+      {
+        "label": "지인추천",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 23
+      },
+      {
+        "label": "기대이하",
+        "count": 6
+      },
+      {
+        "label": "끈적임",
+        "count": 6
+      },
+      {
+        "label": "안맞음",
+        "count": 2
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "저랑은 안맞네요 각질제거 성분 pha가 저에겐 쥐약 얼굴에 붉은꽃 피고 며칠째 고생 중 ㅠㅠㅠ"
+      },
+      {
+        "score": 3,
+        "text": "Goooooooooooood"
+      },
+      {
+        "score": 3,
+        "text": "생각보다 건조함&nbsp;&lt;br&gt;순함&nbsp;"
+      },
+      {
+        "score": 3,
+        "text": "매일 그런 건 아니지만 가끔 얼굴 화끈거릴 때가 있었어요&nbsp;&lt;br&gt;"
+      },
+      {
+        "score": 3,
+        "text": "이건 그닥 좋은지 모르겠어요 '솔직히' 유튜브 보고 구매한건데'그냥 일반 토너 같아요"
+      }
+    ],
+    "pdNo": "1060643"
+  },
+  "1060646": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 틴티드 커버 크림 40 ml",
+    "revwCnt": "847",
+    "avgRating": "4.6",
+    "total_tokens": 3880,
+    "skincare_total": 833,
+    "makeup_total": 874,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 268
+      },
+      {
+        "term": "피부",
+        "count": 158
+      },
+      {
+        "term": "선크림",
+        "count": 58
+      },
+      {
+        "term": "건조",
+        "count": 53
+      },
+      {
+        "term": "수분",
+        "count": 31
+      },
+      {
+        "term": "각질",
+        "count": 26
+      },
+      {
+        "term": "모공",
+        "count": 25
+      },
+      {
+        "term": "트러블",
+        "count": 24
+      },
+      {
+        "term": "커버크림",
+        "count": 23
+      },
+      {
+        "term": "홍조",
+        "count": 17
+      },
+      {
+        "term": "순함",
+        "count": 14
+      },
+      {
+        "term": "흡수",
+        "count": 14
+      },
+      {
+        "term": "자극",
+        "count": 11
+      },
+      {
+        "term": "광크림",
+        "count": 10
+      },
+      {
+        "term": "피부결",
+        "count": 10
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "커버",
+        "count": 181
+      },
+      {
+        "term": "파운데이션",
+        "count": 126
+      },
+      {
+        "term": "발림성",
+        "count": 86
+      },
+      {
+        "term": "커버력",
+        "count": 79
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 59
+      },
+      {
+        "term": "쿠션",
+        "count": 50
+      },
+      {
+        "term": "피부톤",
+        "count": 42
+      },
+      {
+        "term": "톤업",
+        "count": 41
+      },
+      {
+        "term": "메이크업_전",
+        "count": 31
+      },
+      {
+        "term": "파데프리",
+        "count": 24
+      },
+      {
+        "term": "지속력",
+        "count": 17
+      },
+      {
+        "term": "베이스",
+        "count": 14
+      },
+      {
+        "term": "밀착",
+        "count": 11
+      },
+      {
+        "term": "쌩얼",
+        "count": 11
+      },
+      {
+        "term": "컨실러",
+        "count": 10
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 268,
+        "category": "skincare"
+      },
+      {
+        "term": "커버",
+        "count": 181,
+        "category": "makeup"
+      },
+      {
+        "term": "피부",
+        "count": 158,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 128,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 126,
+        "category": "makeup"
+      },
+      {
+        "term": "발림성",
+        "count": 86,
+        "category": "makeup"
+      },
+      {
+        "term": "커버력",
+        "count": 79,
+        "category": "makeup"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 59,
+        "category": "makeup"
+      },
+      {
+        "term": "선크림",
+        "count": 58,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 53,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 52,
+        "category": "other"
+      },
+      {
+        "term": "쿠션",
+        "count": 50,
+        "category": "makeup"
+      },
+      {
+        "term": "피부톤",
+        "count": 42,
+        "category": "makeup"
+      },
+      {
+        "term": "톤업",
+        "count": 41,
+        "category": "makeup"
+      },
+      {
+        "term": "추천",
+        "count": 40,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 34,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 32,
+        "category": "other"
+      },
+      {
+        "term": "정도",
+        "count": 31,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 31,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 31,
+        "category": "makeup"
+      },
+      {
+        "term": "재구매",
+        "count": 29,
+        "category": "other"
+      },
+      {
+        "term": "품절",
+        "count": 28,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 26,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 25,
+        "category": "other"
+      },
+      {
+        "term": "건성",
+        "count": 25,
+        "category": "other"
+      },
+      {
+        "term": "모공",
+        "count": 25,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 24,
+        "category": "skincare"
+      },
+      {
+        "term": "파데프리",
+        "count": 24,
+        "category": "makeup"
+      },
+      {
+        "term": "커버크림",
+        "count": 23,
+        "category": "skincare"
+      },
+      {
+        "term": "기초",
+        "count": 21,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 209,
+        "pos_rate_per_1k": 77.6,
+        "neg_rate_per_1k": 45.0,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 96,
+        "pos_rate_per_1k": 35.6,
+        "neg_rate_per_1k": 21.4,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 66,
+        "pos_rate_per_1k": 24.5,
+        "neg_rate_per_1k": 15.0,
+        "category": "makeup"
+      },
+      {
+        "term": "쿠션",
+        "count": 50,
+        "pos_rate_per_1k": 18.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 40,
+        "pos_rate_per_1k": 14.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 30,
+        "pos_rate_per_1k": 11.1,
+        "neg_rate_per_1k": 2.1,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 28,
+        "pos_rate_per_1k": 10.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 27,
+        "pos_rate_per_1k": 10.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "품절",
+        "count": 27,
+        "pos_rate_per_1k": 10.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 26,
+        "pos_rate_per_1k": 9.6,
+        "neg_rate_per_1k": 2.1,
+        "category": "other"
+      },
+      {
+        "term": "정도",
+        "count": 23,
+        "pos_rate_per_1k": 8.5,
+        "neg_rate_per_1k": 6.4,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 23,
+        "pos_rate_per_1k": 8.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "모공",
+        "count": 20,
+        "pos_rate_per_1k": 7.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "파데프리",
+        "count": 20,
+        "pos_rate_per_1k": 7.4,
+        "neg_rate_per_1k": 2.1,
+        "category": "makeup"
+      },
+      {
+        "term": "화장품",
+        "count": 17,
+        "pos_rate_per_1k": 6.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 15,
+        "pos_rate_per_1k": 5.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "유명",
+        "count": 13,
+        "pos_rate_per_1k": 4.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "사용전",
+        "count": 13,
+        "pos_rate_per_1k": 4.8,
+        "neg_rate_per_1k": 2.1,
+        "category": "other"
+      },
+      {
+        "term": "요즘",
+        "count": 12,
+        "pos_rate_per_1k": 4.5,
+        "neg_rate_per_1k": 2.1,
+        "category": "other"
+      },
+      {
+        "term": "자외선",
+        "count": 12,
+        "pos_rate_per_1k": 4.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "피부",
+        "count": 33,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 21,
+        "category": "skincare"
+      },
+      {
+        "term": "커버",
+        "count": 18,
+        "category": "makeup"
+      },
+      {
+        "term": "파운데이션",
+        "count": 13,
+        "category": "makeup"
+      },
+      {
+        "term": "건조",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "커버력",
+        "count": 11,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 11,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "각질",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 7,
+        "category": "makeup"
+      },
+      {
+        "term": "기초",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 7,
+        "category": "makeup"
+      },
+      {
+        "term": "선크림",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "홍조",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "톤업",
+        "count": 5,
+        "category": "makeup"
+      },
+      {
+        "term": "피부톤",
+        "count": 5,
+        "category": "makeup"
+      },
+      {
+        "term": "민감성",
+        "count": 5,
+        "category": "skincare"
+      },
+      {
+        "term": "심하다",
+        "count": 4,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 32
+      },
+      {
+        "label": "가성비검색",
+        "count": 29
+      },
+      {
+        "label": "유명해서",
+        "count": 26
+      },
+      {
+        "label": "유튜브",
+        "count": 8
+      },
+      {
+        "label": "다른제품비교",
+        "count": 7
+      },
+      {
+        "label": "처음사용",
+        "count": 3
+      },
+      {
+        "label": "지인추천",
+        "count": 3
+      },
+      {
+        "label": "올리브영비교",
+        "count": 2
+      },
+      {
+        "label": "선물",
+        "count": 1
+      },
+      {
+        "label": "성분검색",
+        "count": 1
+      },
+      {
+        "label": "다이소검색",
+        "count": 1
+      },
+      {
+        "label": "브랜드팬",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 32
+      },
+      {
+        "label": "기대이하",
+        "count": 10
+      },
+      {
+        "label": "밀림",
+        "count": 6
+      },
+      {
+        "label": "안맞음",
+        "count": 6
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      },
+      {
+        "label": "끈적임",
+        "count": 2
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": "안써봐서 모르겠어여&nbsp;"
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": "물광처럼 많이 촉촉하진 않은것 같아요."
+      }
+    ],
+    "pdNo": "1060646"
+  },
+  "1073409": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 겔마스크 1매 25 g",
+    "revwCnt": "419",
+    "avgRating": "4.9",
+    "total_tokens": 1243,
+    "skincare_total": 486,
+    "makeup_total": 32,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 155
+      },
+      {
+        "term": "수분",
+        "count": 44
+      },
+      {
+        "term": "마스크",
+        "count": 42
+      },
+      {
+        "term": "피부",
+        "count": 41
+      },
+      {
+        "term": "마스크팩",
+        "count": 35
+      },
+      {
+        "term": "보습",
+        "count": 24
+      },
+      {
+        "term": "겔마스크",
+        "count": 19
+      },
+      {
+        "term": "자극",
+        "count": 14
+      },
+      {
+        "term": "수분감",
+        "count": 12
+      },
+      {
+        "term": "피부결",
+        "count": 10
+      },
+      {
+        "term": "트러블",
+        "count": 6
+      },
+      {
+        "term": "건조",
+        "count": 6
+      },
+      {
+        "term": "각질",
+        "count": 6
+      },
+      {
+        "term": "다이소팩",
+        "count": 5
+      },
+      {
+        "term": "순함",
+        "count": 5
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 10
+      },
+      {
+        "term": "밀착",
+        "count": 9
+      },
+      {
+        "term": "메이크업_전",
+        "count": 5
+      },
+      {
+        "term": "밀착력",
+        "count": 4
+      },
+      {
+        "term": "발림성",
+        "count": 2
+      },
+      {
+        "term": "피부톤",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 155,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 44,
+        "category": "skincare"
+      },
+      {
+        "term": "마스크",
+        "count": 42,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 41,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "만족",
+        "count": 37,
+        "category": "other"
+      },
+      {
+        "term": "마스크팩",
+        "count": 35,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 28,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 24,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "겔마스크",
+        "count": 19,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 14,
+        "category": "skincare"
+      },
+      {
+        "term": "편하다",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "시트",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "저렴하다",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 10,
+        "category": "makeup"
+      },
+      {
+        "term": "피부결",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "라인",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "밀착",
+        "count": 9,
+        "category": "makeup"
+      },
+      {
+        "term": "사용전",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "더랩바이블랑두",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "의사",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "구매의사",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "정도",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "유명",
+        "count": 7,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "촉촉",
+        "count": 138,
+        "pos_rate_per_1k": 127.8,
+        "neg_rate_per_1k": 23.3,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 38,
+        "pos_rate_per_1k": 35.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 37,
+        "pos_rate_per_1k": 34.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "마스크팩",
+        "count": 33,
+        "pos_rate_per_1k": 30.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "얼굴",
+        "count": 17,
+        "pos_rate_per_1k": 15.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 14,
+        "pos_rate_per_1k": 13.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 14,
+        "pos_rate_per_1k": 13.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "감사",
+        "count": 13,
+        "pos_rate_per_1k": 12.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 13,
+        "pos_rate_per_1k": 12.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 12,
+        "pos_rate_per_1k": 11.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 11,
+        "pos_rate_per_1k": 10.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "저렴하다",
+        "count": 10,
+        "pos_rate_per_1k": 9.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 10,
+        "pos_rate_per_1k": 9.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "피부결",
+        "count": 10,
+        "pos_rate_per_1k": 9.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "시트",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "수분",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "자체",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "마스크",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "포장지",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "시트팩",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "겔마스크",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "보습",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "에센스양",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "크림제품",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "원인",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "재질",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "재질자체",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "해당",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "해당제품",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "포장지안",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 28
+      },
+      {
+        "label": "가성비검색",
+        "count": 20
+      },
+      {
+        "label": "유명해서",
+        "count": 6
+      },
+      {
+        "label": "처음사용",
+        "count": 3
+      },
+      {
+        "label": "다른제품비교",
+        "count": 3
+      },
+      {
+        "label": "인스타",
+        "count": 1
+      },
+      {
+        "label": "올리브영비교",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "기대이하",
+        "count": 4
+      },
+      {
+        "label": "건조",
+        "count": 4
+      },
+      {
+        "label": "끈적임",
+        "count": 3
+      },
+      {
+        "label": "자극",
+        "count": 1
+      },
+      {
+        "label": "안맞음",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 2,
+        "text": "크림 제품을 잘써서, 팩으로도 사서 써보았습니다. 그런데 팩은 저와 맞지 않은 지 빨갛게 뭔가가 올라오네요. 수분감 자체는 좋아서, 처음에는 이 제품이 원인이라고 생각 못하고 재구매하여 사용하였는데, 똑같이 나타나서 이 제품이 저와 맞지 않는 것 같습니다. 수분감과 마스크의 재질 자체는 좋습니다. "
+      },
+      {
+        "score": 3,
+        "text": "2장 썼는데&lt;br&gt;오 생각보다 건조해서 좀 놀람"
+      },
+      {
+        "score": 3,
+        "text": "제품은 만족하는데 배송이 너무 아쉬워요ㅠ 다른 제품들과 함께 주문했는데 해당 제품의 포장지가 찍혀서 포장지 안에 에센스가 세서 왔어요.. 포장도 신경써주시면 좋을 것 같아요."
+      },
+      {
+        "score": 3,
+        "text": "솔직히 시트팩과 다른 점을 모르겠네요&lt;br&gt;걍 촉촉한 시트팩 쓴 느낌이라 같아요"
+      }
+    ],
+    "pdNo": "1073409"
+  },
+  "1068780": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 올인원에멀전 120 ml",
+    "revwCnt": "182",
+    "avgRating": "4.8",
+    "total_tokens": 1364,
+    "skincare_total": 424,
+    "makeup_total": 18,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 73
+      },
+      {
+        "term": "흡수",
+        "count": 56
+      },
+      {
+        "term": "피부",
+        "count": 54
+      },
+      {
+        "term": "자극",
+        "count": 40
+      },
+      {
+        "term": "수분",
+        "count": 29
+      },
+      {
+        "term": "보습",
+        "count": 26
+      },
+      {
+        "term": "순함",
+        "count": 20
+      },
+      {
+        "term": "산뜻",
+        "count": 19
+      },
+      {
+        "term": "끈적임",
+        "count": 17
+      },
+      {
+        "term": "건조",
+        "count": 17
+      },
+      {
+        "term": "트러블",
+        "count": 16
+      },
+      {
+        "term": "유분",
+        "count": 14
+      },
+      {
+        "term": "수분감",
+        "count": 10
+      },
+      {
+        "term": "피지",
+        "count": 5
+      },
+      {
+        "term": "진정",
+        "count": 4
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "발림성",
+        "count": 13
+      },
+      {
+        "term": "메이크업_전",
+        "count": 3
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "촉촉",
+        "count": 73,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 56,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 54,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 54,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 40,
+        "category": "skincare"
+      },
+      {
+        "term": "인원",
+        "count": 40,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 32,
+        "category": "other"
+      },
+      {
+        "term": "로션",
+        "count": 32,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 29,
+        "category": "skincare"
+      },
+      {
+        "term": "편하다",
+        "count": 27,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 26,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "산뜻",
+        "count": 19,
+        "category": "skincare"
+      },
+      {
+        "term": "끈적임",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 16,
+        "category": "skincare"
+      },
+      {
+        "term": "유분",
+        "count": 14,
+        "category": "skincare"
+      },
+      {
+        "term": "남성",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 13,
+        "category": "makeup"
+      },
+      {
+        "term": "귀찮다",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "유지",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "올인원",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "무향",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 10,
+        "category": "skincare"
+      },
+      {
+        "term": "추천",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "세안",
+        "count": 9,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "흡수",
+        "count": 56,
+        "pos_rate_per_1k": 43.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 53,
+        "pos_rate_per_1k": 40.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 51,
+        "pos_rate_per_1k": 39.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 40,
+        "pos_rate_per_1k": 30.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "인원",
+        "count": 39,
+        "pos_rate_per_1k": 30.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "로션",
+        "count": 32,
+        "pos_rate_per_1k": 24.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 30,
+        "pos_rate_per_1k": 23.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 26,
+        "pos_rate_per_1k": 20.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 20,
+        "pos_rate_per_1k": 15.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "산뜻",
+        "count": 19,
+        "pos_rate_per_1k": 14.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 18,
+        "pos_rate_per_1k": 13.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "끈적임",
+        "count": 16,
+        "pos_rate_per_1k": 12.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "유분",
+        "count": 14,
+        "pos_rate_per_1k": 10.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 14,
+        "pos_rate_per_1k": 10.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "남성",
+        "count": 13,
+        "pos_rate_per_1k": 10.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 13,
+        "pos_rate_per_1k": 10.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "귀찮다",
+        "count": 13,
+        "pos_rate_per_1k": 10.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 12,
+        "pos_rate_per_1k": 9.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "올인원",
+        "count": 12,
+        "pos_rate_per_1k": 9.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "유지",
+        "count": 11,
+        "pos_rate_per_1k": 8.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "무향",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "수분감",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "용량",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "속건조",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 1,
+        "category": "skincare"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "가성비검색",
+        "count": 15
+      },
+      {
+        "label": "재구매",
+        "count": 12
+      },
+      {
+        "label": "성분검색",
+        "count": 3
+      },
+      {
+        "label": "유명해서",
+        "count": 2
+      },
+      {
+        "label": "다이소검색",
+        "count": 1
+      },
+      {
+        "label": "다른제품비교",
+        "count": 1
+      },
+      {
+        "label": "처음사용",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 10
+      },
+      {
+        "label": "끈적임",
+        "count": 7
+      },
+      {
+        "label": "자극",
+        "count": 3
+      },
+      {
+        "label": "기대이하",
+        "count": 3
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 1,
+        "text": ""
+      },
+      {
+        "score": 3,
+        "text": "무향에 수분감이 좋아서 재구매했어요"
+      },
+      {
+        "score": 3,
+        "text": "용량이 약간 아쉬웠어요 ~"
+      },
+      {
+        "score": 2,
+        "text": "보습력이 있긴 한데, 속 건조 있는 분에게는 어울리지 않습니다."
+      },
+      {
+        "score": 3,
+        "text": "촉촉한데 향이 무향인듯"
+      }
+    ],
+    "pdNo": "1068780"
+  },
+  "1073407": {
+    "pdNm": "더랩바이블랑두 클리어히알결광 젤클렌저 100 g",
+    "revwCnt": "93",
+    "avgRating": "4.8",
+    "total_tokens": 572,
+    "skincare_total": 137,
+    "makeup_total": 14,
+    "skincare_keywords": [
+      {
+        "term": "자극",
+        "count": 27
+      },
+      {
+        "term": "피부",
+        "count": 25
+      },
+      {
+        "term": "촉촉",
+        "count": 24
+      },
+      {
+        "term": "순함",
+        "count": 17
+      },
+      {
+        "term": "수분",
+        "count": 9
+      },
+      {
+        "term": "건조",
+        "count": 6
+      },
+      {
+        "term": "민감성",
+        "count": 4
+      },
+      {
+        "term": "선크림",
+        "count": 4
+      },
+      {
+        "term": "피부결",
+        "count": 4
+      },
+      {
+        "term": "각질",
+        "count": 4
+      },
+      {
+        "term": "유분",
+        "count": 2
+      },
+      {
+        "term": "피지",
+        "count": 2
+      },
+      {
+        "term": "윤기",
+        "count": 2
+      },
+      {
+        "term": "썬크림",
+        "count": 1
+      },
+      {
+        "term": "저자극",
+        "count": 1
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "메이크업_전",
+        "count": 9
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 3
+      },
+      {
+        "term": "톤업",
+        "count": 1
+      },
+      {
+        "term": "밀착",
+        "count": 1
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "세안",
+        "count": 46,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 27,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 25,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 24,
+        "category": "skincare"
+      },
+      {
+        "term": "아침세안",
+        "count": 22,
+        "category": "other"
+      },
+      {
+        "term": "만족",
+        "count": 18,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "거품",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "세정",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "세안후",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 9,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 9,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "클렌저",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "클렌징",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "젤타입",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "더랩바이블랑두",
+        "count": 5,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "민감성",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "마무리",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "선크림",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "폼클렌징",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "히알루론산",
+        "count": 4,
+        "category": "other"
+      },
+      {
+        "term": "피부결",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "각질",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "건성",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "선호",
+        "count": 3,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "세안",
+        "count": 40,
+        "pos_rate_per_1k": 80.8,
+        "neg_rate_per_1k": 55.6,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 23,
+        "pos_rate_per_1k": 46.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "아침세안",
+        "count": 18,
+        "pos_rate_per_1k": 36.4,
+        "neg_rate_per_1k": 27.8,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 18,
+        "pos_rate_per_1k": 36.4,
+        "neg_rate_per_1k": 27.8,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "거품",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "만족",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "세안",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "리뷰어",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "아침세안",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "썬크림",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "바르다",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "외출",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "외출후",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "후세안",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "다이소몰",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "발견",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "닥터",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "약산",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "클렌징",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "클렌징폼",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "이상",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "이상사용",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "겔제품",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 6
+      },
+      {
+        "label": "가성비검색",
+        "count": 4
+      },
+      {
+        "label": "성분검색",
+        "count": 1
+      },
+      {
+        "label": "처음사용",
+        "count": 1
+      },
+      {
+        "label": "유튜브",
+        "count": 1
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      },
+      {
+        "label": "블로그",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 3
+      },
+      {
+        "label": "기대이하",
+        "count": 1
+      },
+      {
+        "label": "자극",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "괜찮았으면 좋겠음. "
+      },
+      {
+        "score": 3,
+        "text": "아 이건 리뷰어들 말처럼 아침세안옹 또는 썬크림만바른외출후 세안시에 사용해야할듯 "
+      },
+      {
+        "score": 3,
+        "text": "우연히 다이소몰 둘러보다가 발견템 !! &lt;br&gt;&lt;br&gt;닥터지 꽤 좋은 겔 약산성 클렌징 폼을 &lt;br&gt;&lt;br&gt;10년이상 사용중인데,&lt;br&gt;&lt;br&gt;겔 제품이라 주문 완료 !! &lt;br&gt;&lt;br&gt;처음 사용할 땐 거품이 적어서 다소 실망했는데, &lt;br&gt;&lt;br&gt;두번째 사용해보니, 거품도 괜찮았고 사용하기 무난했음."
+      },
+      {
+        "score": 3,
+        "text": "순하긴한데 거품이 많이 안나서 두 세번 더 쓰게 되네요....재구매는 안할듯..."
+      },
+      {
+        "score": 3,
+        "text": "세면후 미끄덩 합니다"
+      }
+    ],
+    "pdNo": "1073407"
+  },
+  "1060642": {
+    "pdNm": "더랩 바이 블랑두 클리어 히알 물광 토너 패드 4매입",
+    "revwCnt": "329",
+    "avgRating": "4.8",
+    "total_tokens": 1194,
+    "skincare_total": 275,
+    "makeup_total": 81,
+    "skincare_keywords": [
+      {
+        "term": "촉촉",
+        "count": 88
+      },
+      {
+        "term": "토너패드",
+        "count": 31
+      },
+      {
+        "term": "피부",
+        "count": 28
+      },
+      {
+        "term": "자극",
+        "count": 20
+      },
+      {
+        "term": "수분",
+        "count": 17
+      },
+      {
+        "term": "보습",
+        "count": 8
+      },
+      {
+        "term": "각질",
+        "count": 8
+      },
+      {
+        "term": "흡수",
+        "count": 8
+      },
+      {
+        "term": "피부결",
+        "count": 6
+      },
+      {
+        "term": "트러블",
+        "count": 6
+      },
+      {
+        "term": "순함",
+        "count": 5
+      },
+      {
+        "term": "때토너",
+        "count": 4
+      },
+      {
+        "term": "마스크팩",
+        "count": 4
+      },
+      {
+        "term": "모공",
+        "count": 4
+      },
+      {
+        "term": "건조",
+        "count": 3
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 51
+      },
+      {
+        "term": "메이크업_전",
+        "count": 21
+      },
+      {
+        "term": "파운데이션",
+        "count": 4
+      },
+      {
+        "term": "발림성",
+        "count": 4
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "여행",
+        "count": 99,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 88,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 51,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 44,
+        "category": "other"
+      },
+      {
+        "term": "패드",
+        "count": 36,
+        "category": "other"
+      },
+      {
+        "term": "토너패드",
+        "count": 31,
+        "category": "skincare"
+      },
+      {
+        "term": "피부",
+        "count": 28,
+        "category": "skincare"
+      },
+      {
+        "term": "편하다",
+        "count": 23,
+        "category": "other"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 21,
+        "category": "makeup"
+      },
+      {
+        "term": "자극",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "수정",
+        "count": 19,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "편리",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "재구매",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "휴대",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "수정화장",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "빠름",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "보습",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "각질",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "정리",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "대비",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "라인",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "피부결",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "결정리",
+        "count": 6,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 6,
+        "category": "skincare"
+      },
+      {
+        "term": "지퍼",
+        "count": 6,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "여행",
+        "count": 84,
+        "pos_rate_per_1k": 80.6,
+        "neg_rate_per_1k": 34.5,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 45,
+        "pos_rate_per_1k": 43.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 42,
+        "pos_rate_per_1k": 40.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "패드",
+        "count": 28,
+        "pos_rate_per_1k": 26.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "토너패드",
+        "count": 21,
+        "pos_rate_per_1k": 20.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "메이크업_전",
+        "count": 19,
+        "pos_rate_per_1k": 18.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "자극",
+        "count": 18,
+        "pos_rate_per_1k": 17.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "수정",
+        "count": 17,
+        "pos_rate_per_1k": 16.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 16,
+        "pos_rate_per_1k": 15.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "가성비",
+        "count": 16,
+        "pos_rate_per_1k": 15.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수정화장",
+        "count": 12,
+        "pos_rate_per_1k": 11.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 11,
+        "pos_rate_per_1k": 10.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "조아요",
+        "count": 3,
+        "category": "other"
+      },
+      {
+        "term": "조아요조아요",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "휴대",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "편하다",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 2,
+        "category": "skincare"
+      },
+      {
+        "term": "재구매",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "지퍼백",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "적합",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "날사용",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "장벽",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "피부장벽",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "조심",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "여행",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "운동",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "편리",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "화장품",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "화장품가격",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "대비",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "가격대비",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "재구매",
+        "count": 14
+      },
+      {
+        "label": "가성비검색",
+        "count": 9
+      },
+      {
+        "label": "처음사용",
+        "count": 5
+      },
+      {
+        "label": "올리브영비교",
+        "count": 3
+      },
+      {
+        "label": "지인추천",
+        "count": 1
+      },
+      {
+        "label": "브랜드팬",
+        "count": 1
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      },
+      {
+        "label": "유튜브",
+        "count": 1
+      },
+      {
+        "label": "다이소검색",
+        "count": 1
+      },
+      {
+        "label": "다른제품비교",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 2
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "무난해요 재구매는 안할듯"
+      },
+      {
+        "score": 2,
+        "text": "조아요 조아요 조아요 "
+      },
+      {
+        "score": 3,
+        "text": "휴대하기 좋고 잘맞아요"
+      },
+      {
+        "score": 3,
+        "text": "지퍼백이 되어있어서 휴대하기 편함"
+      },
+      {
+        "score": 3,
+        "text": "사용감은 편합니다&lt;br&gt;4장밖에 안들었더라구요..다시보니 4매라고 써있네요&lt;br&gt;"
+      }
+    ],
+    "pdNo": "1060642"
+  },
+  "1068782": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 톤 커버크림 30 ml",
+    "revwCnt": "100",
+    "avgRating": "4.8",
+    "total_tokens": 1113,
+    "skincare_total": 295,
+    "makeup_total": 194,
+    "skincare_keywords": [
+      {
+        "term": "피부",
+        "count": 85
+      },
+      {
+        "term": "촉촉",
+        "count": 39
+      },
+      {
+        "term": "선크림",
+        "count": 30
+      },
+      {
+        "term": "수분",
+        "count": 15
+      },
+      {
+        "term": "업크림",
+        "count": 13
+      },
+      {
+        "term": "건조",
+        "count": 12
+      },
+      {
+        "term": "자극",
+        "count": 12
+      },
+      {
+        "term": "수분감",
+        "count": 8
+      },
+      {
+        "term": "끈적임",
+        "count": 7
+      },
+      {
+        "term": "썬크림",
+        "count": 6
+      },
+      {
+        "term": "피부결",
+        "count": 6
+      },
+      {
+        "term": "흡수",
+        "count": 6
+      },
+      {
+        "term": "커버크림",
+        "count": 6
+      },
+      {
+        "term": "순함",
+        "count": 5
+      },
+      {
+        "term": "산뜻",
+        "count": 5
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "피부톤",
+        "count": 46
+      },
+      {
+        "term": "톤업",
+        "count": 38
+      },
+      {
+        "term": "커버",
+        "count": 27
+      },
+      {
+        "term": "발림성",
+        "count": 17
+      },
+      {
+        "term": "톤커버",
+        "count": 12
+      },
+      {
+        "term": "파운데이션",
+        "count": 10
+      },
+      {
+        "term": "커버력",
+        "count": 8
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 6
+      },
+      {
+        "term": "밀착",
+        "count": 6
+      },
+      {
+        "term": "백탁",
+        "count": 4
+      },
+      {
+        "term": "베이스",
+        "count": 4
+      },
+      {
+        "term": "정도커버",
+        "count": 3
+      },
+      {
+        "term": "밀착력",
+        "count": 2
+      },
+      {
+        "term": "쿠션",
+        "count": 2
+      },
+      {
+        "term": "메이크업_전",
+        "count": 2
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "피부",
+        "count": 85,
+        "category": "skincare"
+      },
+      {
+        "term": "피부톤",
+        "count": 46,
+        "category": "makeup"
+      },
+      {
+        "term": "촉촉",
+        "count": 39,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "톤업",
+        "count": 38,
+        "category": "makeup"
+      },
+      {
+        "term": "선크림",
+        "count": 30,
+        "category": "skincare"
+      },
+      {
+        "term": "커버",
+        "count": 27,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 22,
+        "category": "other"
+      },
+      {
+        "term": "보정",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "데일리",
+        "count": 18,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 17,
+        "category": "makeup"
+      },
+      {
+        "term": "수분",
+        "count": 15,
+        "category": "skincare"
+      },
+      {
+        "term": "자외선",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "업크림",
+        "count": 13,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "톤커버",
+        "count": 12,
+        "category": "makeup"
+      },
+      {
+        "term": "톤보정",
+        "count": 12,
+        "category": "other"
+      },
+      {
+        "term": "자극",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "로션",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "정리",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "제형",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 10,
+        "category": "makeup"
+      },
+      {
+        "term": "얼굴",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "정도",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "커버력",
+        "count": 8,
+        "category": "makeup"
+      },
+      {
+        "term": "수분감",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "마무리",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "잡티",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "끈적임",
+        "count": 7,
+        "category": "skincare"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "피부",
+        "count": 85,
+        "pos_rate_per_1k": 79.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "피부톤",
+        "count": 46,
+        "pos_rate_per_1k": 43.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "만족",
+        "count": 38,
+        "pos_rate_per_1k": 35.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 38,
+        "pos_rate_per_1k": 35.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "선크림",
+        "count": 28,
+        "pos_rate_per_1k": 26.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "커버",
+        "count": 26,
+        "pos_rate_per_1k": 24.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "가성비",
+        "count": 22,
+        "pos_rate_per_1k": 20.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "보정",
+        "count": 20,
+        "pos_rate_per_1k": 18.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "데일리",
+        "count": 18,
+        "pos_rate_per_1k": 16.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 15,
+        "pos_rate_per_1k": 14.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "자외선",
+        "count": 14,
+        "pos_rate_per_1k": 13.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "업크림",
+        "count": 13,
+        "pos_rate_per_1k": 12.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "톤커버",
+        "count": 12,
+        "pos_rate_per_1k": 11.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "톤보정",
+        "count": 12,
+        "pos_rate_per_1k": 11.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "로션",
+        "count": 11,
+        "pos_rate_per_1k": 10.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "정리",
+        "count": 11,
+        "pos_rate_per_1k": 10.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "제형",
+        "count": 11,
+        "pos_rate_per_1k": 10.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 11,
+        "pos_rate_per_1k": 10.3,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "파운데이션",
+        "count": 10,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "makeup"
+      },
+      {
+        "term": "자극",
+        "count": 10,
+        "pos_rate_per_1k": 9.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "정도",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "발림성",
+        "count": 2,
+        "category": "makeup"
+      },
+      {
+        "term": "사용후",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "후건조",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "약하다",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "썬크림",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "부족",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "히부키",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 1,
+        "category": "makeup"
+      },
+      {
+        "term": "히부키화장",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "톤업",
+        "count": 1,
+        "category": "makeup"
+      },
+      {
+        "term": "일주일",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "일주일정도",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "인정",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "초보",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "가성비검색",
+        "count": 11
+      },
+      {
+        "label": "재구매",
+        "count": 4
+      },
+      {
+        "label": "다이소검색",
+        "count": 2
+      },
+      {
+        "label": "올리브영비교",
+        "count": 1
+      },
+      {
+        "label": "선물",
+        "count": 1
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 8
+      },
+      {
+        "label": "끈적임",
+        "count": 3
+      },
+      {
+        "label": "가루",
+        "count": 2
+      },
+      {
+        "label": "안맞음",
+        "count": 1
+      },
+      {
+        "label": "기대이하",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 2,
+        "text": "사용후 건조한편이고 톤보정도 약하고 썬크림으로 쓰자니도 좀 부족하고... 여로모로 손이 잘 안가는제품.."
+      },
+      {
+        "score": 3,
+        "text": ""
+      },
+      {
+        "score": 1,
+        "text": "이도 저도 아니에요"
+      },
+      {
+        "score": 3,
+        "text": "조금 번들거리는듯 합니다. "
+      },
+      {
+        "score": 1,
+        "text": "히부키 화장한거같다해야하나 저한테는 안 맞아요"
+      }
+    ],
+    "pdNo": "1068782"
+  },
+  "1068779": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 토너 200 ml",
+    "revwCnt": "109",
+    "avgRating": "4.8",
+    "total_tokens": 1306,
+    "skincare_total": 524,
+    "makeup_total": 9,
+    "skincare_keywords": [
+      {
+        "term": "피부",
+        "count": 87
+      },
+      {
+        "term": "촉촉",
+        "count": 69
+      },
+      {
+        "term": "흡수",
+        "count": 64
+      },
+      {
+        "term": "자극",
+        "count": 58
+      },
+      {
+        "term": "수분",
+        "count": 44
+      },
+      {
+        "term": "산뜻",
+        "count": 23
+      },
+      {
+        "term": "수분감",
+        "count": 20
+      },
+      {
+        "term": "끈적임",
+        "count": 19
+      },
+      {
+        "term": "순함",
+        "count": 18
+      },
+      {
+        "term": "트러블",
+        "count": 18
+      },
+      {
+        "term": "건조",
+        "count": 17
+      },
+      {
+        "term": "피부결",
+        "count": 17
+      },
+      {
+        "term": "진정",
+        "count": 9
+      },
+      {
+        "term": "보습",
+        "count": 6
+      },
+      {
+        "term": "피지",
+        "count": 6
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "화장(메이크업)",
+        "count": 9
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "피부",
+        "count": 87,
+        "category": "skincare"
+      },
+      {
+        "term": "촉촉",
+        "count": 69,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 64,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 58,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 49,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 44,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 44,
+        "category": "skincare"
+      },
+      {
+        "term": "산뜻",
+        "count": 23,
+        "category": "skincare"
+      },
+      {
+        "term": "부담",
+        "count": 23,
+        "category": "other"
+      },
+      {
+        "term": "세안",
+        "count": 20,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 20,
+        "category": "skincare"
+      },
+      {
+        "term": "끈적임",
+        "count": 19,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "피부결",
+        "count": 17,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "세안후",
+        "count": 15,
+        "category": "other"
+      },
+      {
+        "term": "용량",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "추천",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "데일리",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "진정",
+        "count": 9,
+        "category": "skincare"
+      },
+      {
+        "term": "화장(메이크업)",
+        "count": 9,
+        "category": "makeup"
+      },
+      {
+        "term": "정도",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "남성",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "요즘",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "강하다",
+        "count": 6,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "피부",
+        "count": 87,
+        "pos_rate_per_1k": 68.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "흡수",
+        "count": 62,
+        "pos_rate_per_1k": 48.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 56,
+        "pos_rate_per_1k": 44.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "만족",
+        "count": 49,
+        "pos_rate_per_1k": 38.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 44,
+        "pos_rate_per_1k": 34.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수분",
+        "count": 42,
+        "pos_rate_per_1k": 33.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "산뜻",
+        "count": 23,
+        "pos_rate_per_1k": 18.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "부담",
+        "count": 23,
+        "pos_rate_per_1k": 18.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "세안",
+        "count": 20,
+        "pos_rate_per_1k": 15.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "수분감",
+        "count": 20,
+        "pos_rate_per_1k": 15.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "끈적임",
+        "count": 19,
+        "pos_rate_per_1k": 15.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "건조",
+        "count": 17,
+        "pos_rate_per_1k": 13.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "피부결",
+        "count": 17,
+        "pos_rate_per_1k": 13.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "순함",
+        "count": 16,
+        "pos_rate_per_1k": 12.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "트러블",
+        "count": 16,
+        "pos_rate_per_1k": 12.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "빠름",
+        "count": 15,
+        "pos_rate_per_1k": 11.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "세안후",
+        "count": 15,
+        "pos_rate_per_1k": 11.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "용량",
+        "count": 14,
+        "pos_rate_per_1k": 11.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 14,
+        "pos_rate_per_1k": 11.0,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "최고",
+        "count": 10,
+        "pos_rate_per_1k": 7.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "촉촉",
+        "count": 4,
+        "category": "skincare"
+      },
+      {
+        "term": "마데카",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "미스트",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "지인",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "농도",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "맹물",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "이상",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "마데카미스트",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "미스트토너",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "추천",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "처음주문",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "중간",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "평점",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "중간평점",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "가성비검색",
+        "count": 22
+      },
+      {
+        "label": "재구매",
+        "count": 3
+      },
+      {
+        "label": "다른제품비교",
+        "count": 3
+      },
+      {
+        "label": "다이소검색",
+        "count": 2
+      },
+      {
+        "label": "선물",
+        "count": 2
+      },
+      {
+        "label": "지인추천",
+        "count": 1
+      },
+      {
+        "label": "성분검색",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "건조",
+        "count": 7
+      },
+      {
+        "label": "끈적임",
+        "count": 6
+      },
+      {
+        "label": "트러블남",
+        "count": 4
+      },
+      {
+        "label": "향별로",
+        "count": 2
+      },
+      {
+        "label": "자극",
+        "count": 1
+      },
+      {
+        "label": "안맞음",
+        "count": 1
+      },
+      {
+        "label": "밀림",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 3,
+        "text": "지인에게 선물했습니다.&lt;br&gt;"
+      },
+      {
+        "score": 1,
+        "text": "이건 뭐지?&lt;br&gt;향도 없고 농도도 그냥 맹물같아요.&lt;br&gt;덧바르면 더 촉촉하다고 써있는데 3번이상 덧발라도 완전 뽀송뽀송합니다. 당기진 않아요.&lt;br&gt;마데카 미스트토너도 같이 샀는데 이게 오히려 훠~ㄹ씬 촉촉합니다.&lt;br&gt;마데카꺼 다 쓰면 그통에다가 이게 채워서 그냥 미스트로나 써야겠어요. 추천은 못할것 같습니다."
+      },
+      {
+        "score": 3,
+        "text": "처음주문해봐서 중간평점 "
+      }
+    ],
+    "pdNo": "1068779"
+  },
+  "1068778": {
+    "pdNm": "더랩바이블랑두 클리어히알옴므 클렌징폼 120 ml",
+    "revwCnt": "118",
+    "avgRating": "4.8",
+    "total_tokens": 1163,
+    "skincare_total": 245,
+    "makeup_total": 6,
+    "skincare_keywords": [
+      {
+        "term": "피부",
+        "count": 55
+      },
+      {
+        "term": "자극",
+        "count": 55
+      },
+      {
+        "term": "촉촉",
+        "count": 25
+      },
+      {
+        "term": "피지",
+        "count": 19
+      },
+      {
+        "term": "순함",
+        "count": 18
+      },
+      {
+        "term": "트러블",
+        "count": 12
+      },
+      {
+        "term": "건조",
+        "count": 9
+      },
+      {
+        "term": "모공",
+        "count": 8
+      },
+      {
+        "term": "산뜻",
+        "count": 7
+      },
+      {
+        "term": "보습",
+        "count": 6
+      },
+      {
+        "term": "민감성",
+        "count": 4
+      },
+      {
+        "term": "쫀쫀",
+        "count": 4
+      },
+      {
+        "term": "각질",
+        "count": 4
+      },
+      {
+        "term": "수분",
+        "count": 4
+      },
+      {
+        "term": "상쾌",
+        "count": 3
+      }
+    ],
+    "makeup_keywords": [
+      {
+        "term": "메이크업_전",
+        "count": 6
+      }
+    ],
+    "top_frequent": [
+      {
+        "term": "만족",
+        "count": 72,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 55,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 55,
+        "category": "skincare"
+      },
+      {
+        "term": "세안",
+        "count": 49,
+        "category": "other"
+      },
+      {
+        "term": "거품",
+        "count": 48,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 38,
+        "category": "other"
+      },
+      {
+        "term": "클렌징",
+        "count": 27,
+        "category": "other"
+      },
+      {
+        "term": "세정",
+        "count": 25,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 25,
+        "category": "skincare"
+      },
+      {
+        "term": "세안후",
+        "count": 25,
+        "category": "other"
+      },
+      {
+        "term": "피지",
+        "count": 19,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 18,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 18,
+        "category": "skincare"
+      },
+      {
+        "term": "폼클렌징",
+        "count": 16,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 14,
+        "category": "other"
+      },
+      {
+        "term": "클렌징폼",
+        "count": 13,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 12,
+        "category": "skincare"
+      },
+      {
+        "term": "노폐물",
+        "count": 11,
+        "category": "other"
+      },
+      {
+        "term": "용량",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "저렴하다",
+        "count": 10,
+        "category": "other"
+      },
+      {
+        "term": "지성",
+        "count": 9,
+        "category": "other"
+      },
+      {
+        "term": "건조",
+        "count": 9,
+        "category": "skincare"
+      },
+      {
+        "term": "추천",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "남성",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "얼굴",
+        "count": 8,
+        "category": "other"
+      },
+      {
+        "term": "모공",
+        "count": 8,
+        "category": "skincare"
+      },
+      {
+        "term": "편하다",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "데일리",
+        "count": 7,
+        "category": "other"
+      },
+      {
+        "term": "제거",
+        "count": 7,
+        "category": "other"
+      }
+    ],
+    "positive_keywords": [
+      {
+        "term": "만족",
+        "count": 72,
+        "pos_rate_per_1k": 63.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "피부",
+        "count": 55,
+        "pos_rate_per_1k": 48.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "자극",
+        "count": 55,
+        "pos_rate_per_1k": 48.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "세안",
+        "count": 49,
+        "pos_rate_per_1k": 43.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "거품",
+        "count": 46,
+        "pos_rate_per_1k": 40.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "가성비",
+        "count": 38,
+        "pos_rate_per_1k": 33.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "클렌징",
+        "count": 27,
+        "pos_rate_per_1k": 23.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "세정",
+        "count": 25,
+        "pos_rate_per_1k": 22.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "촉촉",
+        "count": 25,
+        "pos_rate_per_1k": 22.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "세안후",
+        "count": 25,
+        "pos_rate_per_1k": 22.1,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "피지",
+        "count": 19,
+        "pos_rate_per_1k": 16.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "최고",
+        "count": 18,
+        "pos_rate_per_1k": 15.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "순함",
+        "count": 18,
+        "pos_rate_per_1k": 15.9,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "폼클렌징",
+        "count": 16,
+        "pos_rate_per_1k": 14.2,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "마무리",
+        "count": 14,
+        "pos_rate_per_1k": 12.4,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "클렌징폼",
+        "count": 13,
+        "pos_rate_per_1k": 11.5,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "트러블",
+        "count": 12,
+        "pos_rate_per_1k": 10.6,
+        "neg_rate_per_1k": 0.0,
+        "category": "skincare"
+      },
+      {
+        "term": "노폐물",
+        "count": 11,
+        "pos_rate_per_1k": 9.7,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "용량",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      },
+      {
+        "term": "부담",
+        "count": 10,
+        "pos_rate_per_1k": 8.8,
+        "neg_rate_per_1k": 0.0,
+        "category": "other"
+      }
+    ],
+    "negative_keywords": [
+      {
+        "term": "추천",
+        "count": 2,
+        "category": "other"
+      },
+      {
+        "term": "민감성",
+        "count": 1,
+        "category": "skincare"
+      },
+      {
+        "term": "냄새",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "진심",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "냄새진심",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "개구리",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "진심개구리",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "정도",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "지성",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "극지성",
+        "count": 1,
+        "category": "other"
+      },
+      {
+        "term": "지성추천",
+        "count": 1,
+        "category": "other"
+      }
+    ],
+    "discovery_mentions": [
+      {
+        "label": "가성비검색",
+        "count": 19
+      },
+      {
+        "label": "재구매",
+        "count": 6
+      },
+      {
+        "label": "다이소검색",
+        "count": 4
+      },
+      {
+        "label": "성분검색",
+        "count": 3
+      },
+      {
+        "label": "선물",
+        "count": 2
+      },
+      {
+        "label": "유명해서",
+        "count": 1
+      },
+      {
+        "label": "브랜드팬",
+        "count": 1
+      },
+      {
+        "label": "다른제품비교",
+        "count": 1
+      }
+    ],
+    "complaint_patterns": [
+      {
+        "label": "기대이하",
+        "count": 2
+      },
+      {
+        "label": "트러블남",
+        "count": 2
+      },
+      {
+        "label": "건조",
+        "count": 2
+      },
+      {
+        "label": "향별로",
+        "count": 1
+      },
+      {
+        "label": "안맞음",
+        "count": 1
+      }
+    ],
+    "low_rating_sample": [
+      {
+        "score": 2,
+        "text": ""
+      },
+      {
+        "score": 1,
+        "text": "진짜 민감성은 별로 추천 안함...냄새 진심 개구림 이게 맞아...??싶을정도로;;; 극지성추천"
+      }
+    ],
+    "pdNo": "1068778"
+  }
+}
